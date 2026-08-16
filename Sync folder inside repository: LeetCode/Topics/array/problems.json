@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-16T06:54:07.765Z",
+  "updatedAt": "2026-08-16T06:54:26.316Z",
   "problems": [
     {
       "frontendId": "410",
@@ -23,6 +23,26 @@
           "path": "Sync folder inside repository: LeetCode/0410-split-array-largest-sum/0410-split-array-largest-sum.java",
           "sha": "b2ea1ee9e5d14538b5aaee2ac2d1db8e47ee8d55",
           "lastSyncedAt": "2026-08-16T06:54:07.765Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1095",
+      "title": "Find in Mountain Array",
+      "slug": "find-in-mountain-array",
+      "problemName": "1095-find-in-mountain-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-in-mountain-array/",
+      "folderPath": "Sync folder inside repository: LeetCode/1095-find-in-mountain-array/",
+      "readmePath": "Sync folder inside repository: LeetCode/1095-find-in-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1095-find-in-mountain-array.java",
+          "path": "Sync folder inside repository: LeetCode/1095-find-in-mountain-array/1095-find-in-mountain-array.java",
+          "sha": "7b9df3c0d690628d23121d81e0d999b0409e3531",
+          "lastSyncedAt": "2026-08-16T06:54:26.316Z"
         }
       ]
     },
