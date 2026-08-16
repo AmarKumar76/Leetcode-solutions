@@ -4,7 +4,7 @@
     "slug": "dp-on-trees",
     "name": "DP on Trees"
   },
-  "updatedAt": "2026-08-16T06:50:59.247Z",
+  "updatedAt": "2026-08-16T06:52:30.242Z",
   "problems": [
     {
       "frontendId": "124",
@@ -23,6 +23,26 @@
           "path": "Sync folder inside repository: LeetCode/0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.java",
           "sha": "6272074ea447dfc9702008cffd6649f2b1bf31a3",
           "lastSyncedAt": "2026-08-16T06:50:59.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "problemName": "0543-diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "folderPath": "Sync folder inside repository: LeetCode/0543-diameter-of-binary-tree/",
+      "readmePath": "Sync folder inside repository: LeetCode/0543-diameter-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0543-diameter-of-binary-tree.java",
+          "path": "Sync folder inside repository: LeetCode/0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.java",
+          "sha": "8c6e47ef97ec5bf2ed6edc2be02700909c11ee67",
+          "lastSyncedAt": "2026-08-16T06:52:30.242Z"
         }
       ]
     }
