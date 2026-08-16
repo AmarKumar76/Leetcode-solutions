@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-16T06:53:47.075Z",
+  "updatedAt": "2026-08-16T06:53:57.665Z",
   "problems": [
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "Sync folder inside repository: LeetCode/0100-same-tree/",
+      "readmePath": "Sync folder inside repository: LeetCode/0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0100-same-tree.java",
+          "path": "Sync folder inside repository: LeetCode/0100-same-tree/0100-same-tree.java",
+          "sha": "3fee046f10a61116a16bd1ff0c61bb17c14451b9",
+          "lastSyncedAt": "2026-08-16T06:53:57.665Z"
+        }
+      ]
+    },
     {
       "frontendId": "103",
       "title": "Binary Tree Zigzag Level Order Traversal",
