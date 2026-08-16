@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "tree",
+    "name": "Tree"
+  },
+  "updatedAt": "2026-08-16T06:50:26.394Z",
+  "problems": [
+    {
+      "frontendId": "515",
+      "title": "Find Largest Value in Each Tree Row",
+      "slug": "find-largest-value-in-each-tree-row",
+      "problemName": "0515-find-largest-value-in-each-tree-row",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-largest-value-in-each-tree-row/",
+      "folderPath": "Sync folder inside repository: LeetCode/0515-find-largest-value-in-each-tree-row/",
+      "readmePath": "Sync folder inside repository: LeetCode/0515-find-largest-value-in-each-tree-row/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0515-find-largest-value-in-each-tree-row.java",
+          "path": "Sync folder inside repository: LeetCode/0515-find-largest-value-in-each-tree-row/0515-find-largest-value-in-each-tree-row.java",
+          "sha": "cd528465f25d556b95d08fa878d421e9a5dc3734",
+          "lastSyncedAt": "2026-08-16T06:50:26.394Z"
+        }
+      ]
+    }
+  ]
+}
