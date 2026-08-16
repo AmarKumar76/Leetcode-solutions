@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table"
+  },
+  "updatedAt": "2026-08-16T06:50:08.625Z",
+  "problems": [
+    {
+      "frontendId": "3090",
+      "title": "Maximum Length Substring With Two Occurrences",
+      "slug": "maximum-length-substring-with-two-occurrences",
+      "problemName": "3090-maximum-length-substring-with-two-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
+      "folderPath": "Sync folder inside repository: LeetCode/3090-maximum-length-substring-with-two-occurrences/",
+      "readmePath": "Sync folder inside repository: LeetCode/3090-maximum-length-substring-with-two-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3090-maximum-length-substring-with-two-occurrences.java",
+          "path": "Sync folder inside repository: LeetCode/3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.java",
+          "sha": "a1c63031453d32c8c602198cc386f815475f17c0",
+          "lastSyncedAt": "2026-08-16T06:50:08.625Z"
+        }
+      ]
+    }
+  ]
+}
