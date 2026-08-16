@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-16T06:53:57.665Z",
+  "updatedAt": "2026-08-16T17:50:05.625Z",
   "problems": [
     {
       "frontendId": "94",
@@ -163,6 +163,26 @@
           "path": "Sync folder inside repository: LeetCode/0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.java",
           "sha": "8c6e47ef97ec5bf2ed6edc2be02700909c11ee67",
           "lastSyncedAt": "2026-08-16T06:52:30.242Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1022",
+      "title": "Sum of Root To Leaf Binary Numbers",
+      "slug": "sum-of-root-to-leaf-binary-numbers",
+      "problemName": "1022-sum-of-root-to-leaf-binary-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/",
+      "folderPath": "Sync folder inside repository: LeetCode/1022-sum-of-root-to-leaf-binary-numbers/",
+      "readmePath": "Sync folder inside repository: LeetCode/1022-sum-of-root-to-leaf-binary-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1022-sum-of-root-to-leaf-binary-numbers.java",
+          "path": "Sync folder inside repository: LeetCode/1022-sum-of-root-to-leaf-binary-numbers/1022-sum-of-root-to-leaf-binary-numbers.java",
+          "sha": "5e14399ac97487f7020ddd93d5fa862f680cc9b7",
+          "lastSyncedAt": "2026-08-16T17:50:05.625Z"
         }
       ]
     }
