@@ -4,8 +4,28 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-16T06:50:26.394Z",
+  "updatedAt": "2026-08-16T06:50:41.941Z",
   "problems": [
+    {
+      "frontendId": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "problemName": "0094-binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "folderPath": "Sync folder inside repository: LeetCode/0094-binary-tree-inorder-traversal/",
+      "readmePath": "Sync folder inside repository: LeetCode/0094-binary-tree-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0094-binary-tree-inorder-traversal.java",
+          "path": "Sync folder inside repository: LeetCode/0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.java",
+          "sha": "0aad81bd76c0c10d1a734c9c8b485b203b3b2b27",
+          "lastSyncedAt": "2026-08-16T06:50:41.941Z"
+        }
+      ]
+    },
     {
       "frontendId": "515",
       "title": "Find Largest Value in Each Tree Row",
