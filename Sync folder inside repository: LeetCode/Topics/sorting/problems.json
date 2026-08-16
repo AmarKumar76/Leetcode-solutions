@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting"
+  },
+  "updatedAt": "2026-08-16T06:52:14.299Z",
+  "problems": [
+    {
+      "frontendId": "1552",
+      "title": "Magnetic Force Between Two Balls",
+      "slug": "magnetic-force-between-two-balls",
+      "problemName": "1552-magnetic-force-between-two-balls",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/magnetic-force-between-two-balls/",
+      "folderPath": "Sync folder inside repository: LeetCode/1552-magnetic-force-between-two-balls/",
+      "readmePath": "Sync folder inside repository: LeetCode/1552-magnetic-force-between-two-balls/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1552-magnetic-force-between-two-balls.java",
+          "path": "Sync folder inside repository: LeetCode/1552-magnetic-force-between-two-balls/1552-magnetic-force-between-two-balls.java",
+          "sha": "ce1495599e2dae63c6a9039557ea162c53385133",
+          "lastSyncedAt": "2026-08-16T06:52:14.299Z"
+        }
+      ]
+    }
+  ]
+}
