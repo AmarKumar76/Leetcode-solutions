@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-16T06:50:59.247Z",
+  "updatedAt": "2026-08-16T06:51:26.443Z",
   "problems": [
     {
       "frontendId": "94",
@@ -23,6 +23,26 @@
           "path": "Sync folder inside repository: LeetCode/0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.java",
           "sha": "0aad81bd76c0c10d1a734c9c8b485b203b3b2b27",
           "lastSyncedAt": "2026-08-16T06:50:41.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "problemName": "0112-path-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+      "folderPath": "Sync folder inside repository: LeetCode/0112-path-sum/",
+      "readmePath": "Sync folder inside repository: LeetCode/0112-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0112-path-sum.java",
+          "path": "Sync folder inside repository: LeetCode/0112-path-sum/0112-path-sum.java",
+          "sha": "36f55eb787784ad2d33fe920b79c9a74b575c895",
+          "lastSyncedAt": "2026-08-16T06:51:26.443Z"
         }
       ]
     },
