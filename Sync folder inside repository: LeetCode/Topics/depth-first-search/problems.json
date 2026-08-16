@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-16T06:51:26.443Z",
+  "updatedAt": "2026-08-16T06:51:49.884Z",
   "problems": [
     {
       "frontendId": "94",
@@ -63,6 +63,26 @@
           "path": "Sync folder inside repository: LeetCode/0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.java",
           "sha": "6272074ea447dfc9702008cffd6649f2b1bf31a3",
           "lastSyncedAt": "2026-08-16T06:50:59.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "problemName": "0199-binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "folderPath": "Sync folder inside repository: LeetCode/0199-binary-tree-right-side-view/",
+      "readmePath": "Sync folder inside repository: LeetCode/0199-binary-tree-right-side-view/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0199-binary-tree-right-side-view.java",
+          "path": "Sync folder inside repository: LeetCode/0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.java",
+          "sha": "90595f803497e4d4a185ddf17521329bba0985a2",
+          "lastSyncedAt": "2026-08-16T06:51:49.884Z"
         }
       ]
     },
