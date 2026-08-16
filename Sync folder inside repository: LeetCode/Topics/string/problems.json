@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-16T06:50:08.625Z",
+  "updatedAt": "2026-08-16T06:52:05.406Z",
   "problems": [
+    {
+      "frontendId": "520",
+      "title": "Detect Capital",
+      "slug": "detect-capital",
+      "problemName": "0520-detect-capital",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/detect-capital/",
+      "folderPath": "Sync folder inside repository: LeetCode/0520-detect-capital/",
+      "readmePath": "Sync folder inside repository: LeetCode/0520-detect-capital/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0520-detect-capital.java",
+          "path": "Sync folder inside repository: LeetCode/0520-detect-capital/0520-detect-capital.java",
+          "sha": "e1fff314dcfd46bdff96bee0fcaa7c8308eb8713",
+          "lastSyncedAt": "2026-08-16T06:52:05.406Z"
+        }
+      ]
+    },
     {
       "frontendId": "3090",
       "title": "Maximum Length Substring With Two Occurrences",
