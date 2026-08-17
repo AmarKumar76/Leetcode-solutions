@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-16T06:54:26.316Z",
+  "updatedAt": "2026-08-17T07:49:37.411Z",
   "problems": [
     {
       "frontendId": "410",
@@ -83,6 +83,26 @@
           "path": "Sync folder inside repository: LeetCode/1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.java",
           "sha": "d1d3691433a7a14fc25cd140ef5678aff4c03040",
           "lastSyncedAt": "2026-08-16T06:53:33.561Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2187",
+      "title": "Minimum Time to Complete Trips",
+      "slug": "minimum-time-to-complete-trips",
+      "problemName": "2187-minimum-time-to-complete-trips",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-complete-trips/",
+      "folderPath": "Sync folder inside repository: LeetCode/2187-minimum-time-to-complete-trips/",
+      "readmePath": "Sync folder inside repository: LeetCode/2187-minimum-time-to-complete-trips/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2187-minimum-time-to-complete-trips.java",
+          "path": "Sync folder inside repository: LeetCode/2187-minimum-time-to-complete-trips/2187-minimum-time-to-complete-trips.java",
+          "sha": "707d26b8d57c6c391d50586729b660d0c487de28",
+          "lastSyncedAt": "2026-08-17T07:49:37.411Z"
         }
       ]
     }
