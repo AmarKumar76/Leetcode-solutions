@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-16T06:52:14.299Z",
+  "updatedAt": "2026-08-19T18:53:29.665Z",
   "problems": [
+    {
+      "frontendId": "1329",
+      "title": "Sort the Matrix Diagonally",
+      "slug": "sort-the-matrix-diagonally",
+      "problemName": "1329-sort-the-matrix-diagonally",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-the-matrix-diagonally/",
+      "folderPath": "Sync folder inside repository: LeetCode/1329-sort-the-matrix-diagonally/",
+      "readmePath": "Sync folder inside repository: LeetCode/1329-sort-the-matrix-diagonally/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1329-sort-the-matrix-diagonally.java",
+          "path": "Sync folder inside repository: LeetCode/1329-sort-the-matrix-diagonally/1329-sort-the-matrix-diagonally.java",
+          "sha": "9869b486be055f935228013c1fcccb6f1de016b3",
+          "lastSyncedAt": "2026-08-19T18:53:29.665Z"
+        }
+      ]
+    },
     {
       "frontendId": "1552",
       "title": "Magnetic Force Between Two Balls",
