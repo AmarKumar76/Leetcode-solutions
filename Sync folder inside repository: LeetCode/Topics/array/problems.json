@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-17T07:49:37.411Z",
+  "updatedAt": "2026-08-19T18:53:29.665Z",
   "problems": [
     {
       "frontendId": "410",
@@ -43,6 +43,26 @@
           "path": "Sync folder inside repository: LeetCode/1095-find-in-mountain-array/1095-find-in-mountain-array.java",
           "sha": "7b9df3c0d690628d23121d81e0d999b0409e3531",
           "lastSyncedAt": "2026-08-16T06:54:26.316Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1329",
+      "title": "Sort the Matrix Diagonally",
+      "slug": "sort-the-matrix-diagonally",
+      "problemName": "1329-sort-the-matrix-diagonally",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-the-matrix-diagonally/",
+      "folderPath": "Sync folder inside repository: LeetCode/1329-sort-the-matrix-diagonally/",
+      "readmePath": "Sync folder inside repository: LeetCode/1329-sort-the-matrix-diagonally/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1329-sort-the-matrix-diagonally.java",
+          "path": "Sync folder inside repository: LeetCode/1329-sort-the-matrix-diagonally/1329-sort-the-matrix-diagonally.java",
+          "sha": "9869b486be055f935228013c1fcccb6f1de016b3",
+          "lastSyncedAt": "2026-08-19T18:53:29.665Z"
         }
       ]
     },
