@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-20T06:42:34.391Z",
+  "updatedAt": "2026-08-20T06:57:50.401Z",
   "problems": [
     {
       "frontendId": "410",
@@ -42,7 +42,7 @@
           "filename": "0974-subarray-sums-divisible-by-k.java",
           "path": "Sync folder inside repository: LeetCode/0974-subarray-sums-divisible-by-k/0974-subarray-sums-divisible-by-k.java",
           "sha": "8fa47152fbdde7aa54aeb913f8724073ed712a04",
-          "lastSyncedAt": "2026-08-20T06:42:34.391Z"
+          "lastSyncedAt": "2026-08-20T06:57:50.401Z"
         }
       ]
     }
