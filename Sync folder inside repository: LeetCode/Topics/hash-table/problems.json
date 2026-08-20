@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-16T06:50:08.625Z",
+  "updatedAt": "2026-08-20T06:42:34.391Z",
   "problems": [
+    {
+      "frontendId": "974",
+      "title": "Subarray Sums Divisible by K",
+      "slug": "subarray-sums-divisible-by-k",
+      "problemName": "0974-subarray-sums-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+      "folderPath": "Sync folder inside repository: LeetCode/0974-subarray-sums-divisible-by-k/",
+      "readmePath": "Sync folder inside repository: LeetCode/0974-subarray-sums-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0974-subarray-sums-divisible-by-k.java",
+          "path": "Sync folder inside repository: LeetCode/0974-subarray-sums-divisible-by-k/0974-subarray-sums-divisible-by-k.java",
+          "sha": "8fa47152fbdde7aa54aeb913f8724073ed712a04",
+          "lastSyncedAt": "2026-08-20T06:42:34.391Z"
+        }
+      ]
+    },
     {
       "frontendId": "3090",
       "title": "Maximum Length Substring With Two Occurrences",
