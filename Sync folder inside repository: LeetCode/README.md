@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 11 | 9 | 3 |
+| 24 | 11 | 10 | 3 |
 
 ## Activity
 
@@ -25,28 +25,28 @@ Contains topicwise list of solved problems.
 | 2026-08-15 | 2 |
 | 2026-08-16 | 1 |
 | 2026-08-17 | 1 |
-| 2026-08-20 | 1 |
+| 2026-08-20 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 11 | 48% |
-| Tree | 11 | 48% |
-| Depth-First Search | 9 | 39% |
-| Breadth-First Search | 7 | 30% |
-| Array | 6 | 26% |
-| Binary Search | 5 | 22% |
+| Binary Tree | 11 | 46% |
+| Tree | 11 | 46% |
+| Depth-First Search | 9 | 38% |
+| Array | 7 | 29% |
+| Breadth-First Search | 7 | 29% |
+| Binary Search | 5 | 21% |
 | String | 3 | 13% |
-| DP on Trees | 2 | 9% |
-| Dynamic Programming | 2 | 9% |
-| Matrix | 2 | 9% |
+| DP on Trees | 2 | 8% |
+| Dynamic Programming | 2 | 8% |
+| Hash Table | 2 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 6 |
+| [Array](Topics/array/) | 7 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 11 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 7 |
@@ -55,11 +55,11 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 1 |
+| [Hash Table](Topics/hash-table/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 2 |
-| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 1 |
