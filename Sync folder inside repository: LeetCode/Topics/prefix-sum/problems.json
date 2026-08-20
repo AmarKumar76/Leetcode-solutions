@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-16T06:54:07.765Z",
+  "updatedAt": "2026-08-20T06:42:34.391Z",
   "problems": [
     {
       "frontendId": "410",
@@ -23,6 +23,26 @@
           "path": "Sync folder inside repository: LeetCode/0410-split-array-largest-sum/0410-split-array-largest-sum.java",
           "sha": "b2ea1ee9e5d14538b5aaee2ac2d1db8e47ee8d55",
           "lastSyncedAt": "2026-08-16T06:54:07.765Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "974",
+      "title": "Subarray Sums Divisible by K",
+      "slug": "subarray-sums-divisible-by-k",
+      "problemName": "0974-subarray-sums-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+      "folderPath": "Sync folder inside repository: LeetCode/0974-subarray-sums-divisible-by-k/",
+      "readmePath": "Sync folder inside repository: LeetCode/0974-subarray-sums-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0974-subarray-sums-divisible-by-k.java",
+          "path": "Sync folder inside repository: LeetCode/0974-subarray-sums-divisible-by-k/0974-subarray-sums-divisible-by-k.java",
+          "sha": "8fa47152fbdde7aa54aeb913f8724073ed712a04",
+          "lastSyncedAt": "2026-08-20T06:42:34.391Z"
         }
       ]
     }
