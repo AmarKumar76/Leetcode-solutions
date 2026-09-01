@@ -4,8 +4,28 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-16T06:50:08.625Z",
+  "updatedAt": "2026-09-01T07:38:50.232Z",
   "problems": [
+    {
+      "frontendId": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "problemName": "1248-count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "folderPath": "Sync folder inside repository: LeetCode/1248-count-number-of-nice-subarrays/",
+      "readmePath": "Sync folder inside repository: LeetCode/1248-count-number-of-nice-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1248-count-number-of-nice-subarrays.java",
+          "path": "Sync folder inside repository: LeetCode/1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.java",
+          "sha": "03c8691a5c6ff877e59c8aadda547bc08427ebbb",
+          "lastSyncedAt": "2026-09-01T07:38:50.232Z"
+        }
+      ]
+    },
     {
       "frontendId": "3090",
       "title": "Maximum Length Substring With Two Occurrences",
