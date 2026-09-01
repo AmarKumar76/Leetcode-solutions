@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-20T06:57:50.401Z",
+  "updatedAt": "2026-09-01T07:22:48.799Z",
   "problems": [
     {
       "frontendId": "410",
@@ -23,6 +23,26 @@
           "path": "Sync folder inside repository: LeetCode/0410-split-array-largest-sum/0410-split-array-largest-sum.java",
           "sha": "b2ea1ee9e5d14538b5aaee2ac2d1db8e47ee8d55",
           "lastSyncedAt": "2026-08-16T06:54:07.765Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "454",
+      "title": "4Sum II",
+      "slug": "4sum-ii",
+      "problemName": "0454-4sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum-ii/",
+      "folderPath": "Sync folder inside repository: LeetCode/0454-4sum-ii/",
+      "readmePath": "Sync folder inside repository: LeetCode/0454-4sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0454-4sum-ii.java",
+          "path": "Sync folder inside repository: LeetCode/0454-4sum-ii/0454-4sum-ii.java",
+          "sha": "5139655e4f95baa337b4c445c91d316f24609355",
+          "lastSyncedAt": "2026-09-01T07:22:48.799Z"
         }
       ]
     },
