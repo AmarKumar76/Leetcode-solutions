@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-01T07:22:48.799Z",
+  "updatedAt": "2026-09-01T07:38:50.232Z",
   "problems": [
     {
       "frontendId": "454",
@@ -43,6 +43,26 @@
           "path": "Sync folder inside repository: LeetCode/0974-subarray-sums-divisible-by-k/0974-subarray-sums-divisible-by-k.java",
           "sha": "8fa47152fbdde7aa54aeb913f8724073ed712a04",
           "lastSyncedAt": "2026-08-20T06:57:50.401Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "problemName": "1248-count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "folderPath": "Sync folder inside repository: LeetCode/1248-count-number-of-nice-subarrays/",
+      "readmePath": "Sync folder inside repository: LeetCode/1248-count-number-of-nice-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1248-count-number-of-nice-subarrays.java",
+          "path": "Sync folder inside repository: LeetCode/1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.java",
+          "sha": "03c8691a5c6ff877e59c8aadda547bc08427ebbb",
+          "lastSyncedAt": "2026-09-01T07:38:50.232Z"
         }
       ]
     },
