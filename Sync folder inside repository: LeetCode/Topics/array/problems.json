@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-01T08:42:07.122Z",
+  "updatedAt": "2026-09-02T02:14:20.959Z",
   "problems": [
     {
       "frontendId": "410",
@@ -183,6 +183,26 @@
           "path": "Sync folder inside repository: LeetCode/2187-minimum-time-to-complete-trips/2187-minimum-time-to-complete-trips.java",
           "sha": "707d26b8d57c6c391d50586729b660d0c487de28",
           "lastSyncedAt": "2026-08-17T07:49:37.411Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "Sync folder inside repository: LeetCode/3875-construct-uniform-parity-array-i/",
+      "readmePath": "Sync folder inside repository: LeetCode/3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3875-construct-uniform-parity-array-i.java",
+          "path": "Sync folder inside repository: LeetCode/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.java",
+          "sha": "7f995da0942ecd0319e9b6698eb76c1afbbff511",
+          "lastSyncedAt": "2026-09-02T02:14:20.959Z"
         }
       ]
     }
