@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-02T02:14:20.959Z",
+  "updatedAt": "2026-09-03T18:21:58.763Z",
   "problems": [
     {
       "frontendId": "1248",
@@ -63,6 +63,26 @@
           "path": "Sync folder inside repository: LeetCode/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.java",
           "sha": "7f995da0942ecd0319e9b6698eb76c1afbbff511",
           "lastSyncedAt": "2026-09-02T02:14:20.959Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3876",
+      "title": "Construct Uniform Parity Array II",
+      "slug": "construct-uniform-parity-array-ii",
+      "problemName": "3876-construct-uniform-parity-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
+      "folderPath": "Sync folder inside repository: LeetCode/3876-construct-uniform-parity-array-ii/",
+      "readmePath": "Sync folder inside repository: LeetCode/3876-construct-uniform-parity-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3876-construct-uniform-parity-array-ii.java",
+          "path": "Sync folder inside repository: LeetCode/3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.java",
+          "sha": "48ab6ab3efc1b0e3a32b3368c69049f723466744",
+          "lastSyncedAt": "2026-09-03T18:21:58.763Z"
         }
       ]
     }
