@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 11 | 12 | 3 |
+| 30 | 13 | 14 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 3 days | 12 |
+| 5 days | 5 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-05 | 4 |
-| 2026-08-06 | 2 |
 | 2026-08-08 | 1 |
 | 2026-08-09 | 4 |
 | 2026-08-10 | 2 |
@@ -27,27 +25,31 @@ Contains topicwise list of solved problems.
 | 2026-08-17 | 1 |
 | 2026-08-20 | 2 |
 | 2026-09-01 | 2 |
+| 2026-09-02 | 1 |
+| 2026-09-03 | 1 |
+| 2026-09-04 | 1 |
+| 2026-09-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 11 | 42% |
-| Tree | 11 | 42% |
-| Array | 9 | 35% |
-| Depth-First Search | 9 | 35% |
-| Breadth-First Search | 7 | 27% |
-| Binary Search | 5 | 19% |
-| Hash Table | 4 | 15% |
-| Prefix Sum | 3 | 12% |
-| String | 3 | 12% |
-| DP on Trees | 2 | 8% |
+| Array | 13 | 43% |
+| Binary Tree | 11 | 37% |
+| Tree | 11 | 37% |
+| Depth-First Search | 9 | 30% |
+| Breadth-First Search | 7 | 23% |
+| Binary Search | 5 | 17% |
+| Prefix Sum | 5 | 17% |
+| Hash Table | 4 | 13% |
+| Math | 4 | 13% |
+| String | 3 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 9 |
+| [Array](Topics/array/) | 13 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 11 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 7 |
@@ -58,9 +60,9 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Interactive](Topics/interactive/) | 1 |
-| [Math](Topics/math/) | 2 |
+| [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 2 |
-| [Prefix Sum](Topics/prefix-sum/) | 3 |
+| [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 1 |
