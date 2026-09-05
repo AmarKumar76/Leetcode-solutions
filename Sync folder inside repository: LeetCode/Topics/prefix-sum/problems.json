@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-04T15:12:26.049Z",
+  "updatedAt": "2026-09-05T05:05:09.198Z",
   "problems": [
     {
       "frontendId": "410",
@@ -83,6 +83,26 @@
           "path": "Sync folder inside repository: LeetCode/3903-smallest-stable-index-i/3903-smallest-stable-index-i.java",
           "sha": "4ceb28f1e7d20583c099a15ffe902c9113a69ed1",
           "lastSyncedAt": "2026-09-04T15:12:26.049Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3904",
+      "title": "Smallest Stable Index II",
+      "slug": "smallest-stable-index-ii",
+      "problemName": "3904-smallest-stable-index-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
+      "folderPath": "Sync folder inside repository: LeetCode/3904-smallest-stable-index-ii/",
+      "readmePath": "Sync folder inside repository: LeetCode/3904-smallest-stable-index-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3904-smallest-stable-index-ii.java",
+          "path": "Sync folder inside repository: LeetCode/3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
+          "sha": "f0cc2836e1ccf11abe9401a5c8d921d94b8380b2",
+          "lastSyncedAt": "2026-09-05T05:05:09.198Z"
         }
       ]
     }
