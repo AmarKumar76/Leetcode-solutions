@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-16T06:54:07.765Z",
+  "updatedAt": "2026-09-06T04:50:34.922Z",
   "problems": [
+    {
+      "frontendId": "115",
+      "title": "Distinct Subsequences",
+      "slug": "distinct-subsequences",
+      "problemName": "0115-distinct-subsequences",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences/",
+      "folderPath": "Sync folder inside repository: LeetCode/0115-distinct-subsequences/",
+      "readmePath": "Sync folder inside repository: LeetCode/0115-distinct-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0115-distinct-subsequences.java",
+          "path": "Sync folder inside repository: LeetCode/0115-distinct-subsequences/0115-distinct-subsequences.java",
+          "sha": "c7330c8c7175833b2a85c46391dbc042409f4501",
+          "lastSyncedAt": "2026-09-06T04:50:34.922Z"
+        }
+      ]
+    },
     {
       "frontendId": "124",
       "title": "Binary Tree Maximum Path Sum",
