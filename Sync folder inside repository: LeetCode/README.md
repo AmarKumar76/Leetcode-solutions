@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 13 | 14 | 4 |
+| 32 | 13 | 15 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 6 days | 17 |
+| 7 days | 7 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-09 | 4 |
 | 2026-08-10 | 2 |
 | 2026-08-12 | 3 |
 | 2026-08-13 | 2 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-09-04 | 1 |
 | 2026-09-05 | 1 |
 | 2026-09-06 | 1 |
+| 2026-09-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 42% |
-| Binary Tree | 11 | 35% |
-| Tree | 11 | 35% |
-| Depth-First Search | 9 | 29% |
-| Breadth-First Search | 7 | 23% |
+| Array | 13 | 41% |
+| Binary Tree | 11 | 34% |
+| Tree | 11 | 34% |
+| Depth-First Search | 9 | 28% |
+| Breadth-First Search | 7 | 22% |
 | Binary Search | 5 | 16% |
 | Prefix Sum | 5 | 16% |
 | Hash Table | 4 | 13% |
@@ -60,6 +60,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Interactive](Topics/interactive/) | 1 |
+| [Linked List](Topics/linked-list/) | 1 |
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
