@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "linked-list",
+    "name": "Linked List"
+  },
+  "updatedAt": "2026-09-07T14:25:50.080Z",
+  "problems": [
+    {
+      "frontendId": "1669",
+      "title": "Merge In Between Linked Lists",
+      "slug": "merge-in-between-linked-lists",
+      "problemName": "1669-merge-in-between-linked-lists",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-in-between-linked-lists/",
+      "folderPath": "Sync folder inside repository: LeetCode/1669-merge-in-between-linked-lists/",
+      "readmePath": "Sync folder inside repository: LeetCode/1669-merge-in-between-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1669-merge-in-between-linked-lists.java",
+          "path": "Sync folder inside repository: LeetCode/1669-merge-in-between-linked-lists/1669-merge-in-between-linked-lists.java",
+          "sha": "3ada94b41e1ae38a63478ce7424d38a19023c444",
+          "lastSyncedAt": "2026-09-07T14:25:50.080Z"
+        }
+      ]
+    }
+  ]
+}
