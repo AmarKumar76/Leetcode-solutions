@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-17T07:49:37.411Z",
+  "updatedAt": "2026-09-09T03:30:59.471Z",
   "problems": [
     {
       "frontendId": "410",
@@ -43,6 +43,26 @@
           "path": "Sync folder inside repository: LeetCode/1095-find-in-mountain-array/1095-find-in-mountain-array.java",
           "sha": "7b9df3c0d690628d23121d81e0d999b0409e3531",
           "lastSyncedAt": "2026-08-16T06:54:26.316Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "problemName": "1385-find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+      "folderPath": "Sync folder inside repository: LeetCode/1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "Sync folder inside repository: LeetCode/1385-find-the-distance-value-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1385-find-the-distance-value-between-two-arrays.java",
+          "path": "Sync folder inside repository: LeetCode/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
+          "sha": "c17701667699b93513f712b6fad8fb97a268dbd9",
+          "lastSyncedAt": "2026-09-09T03:30:59.471Z"
         }
       ]
     },
