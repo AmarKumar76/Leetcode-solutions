@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-01T08:42:07.122Z",
+  "updatedAt": "2026-09-12T19:20:37.953Z",
   "problems": [
     {
       "frontendId": "454",
@@ -63,6 +63,26 @@
           "path": "Sync folder inside repository: LeetCode/1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.java",
           "sha": "03c8691a5c6ff877e59c8aadda547bc08427ebbb",
           "lastSyncedAt": "2026-09-01T08:42:07.122Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2068",
+      "title": "Check Whether Two Strings are Almost Equivalent",
+      "slug": "check-whether-two-strings-are-almost-equivalent",
+      "problemName": "2068-check-whether-two-strings-are-almost-equivalent",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/",
+      "folderPath": "Sync folder inside repository: LeetCode/2068-check-whether-two-strings-are-almost-equivalent/",
+      "readmePath": "Sync folder inside repository: LeetCode/2068-check-whether-two-strings-are-almost-equivalent/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2068-check-whether-two-strings-are-almost-equivalent.java",
+          "path": "Sync folder inside repository: LeetCode/2068-check-whether-two-strings-are-almost-equivalent/2068-check-whether-two-strings-are-almost-equivalent.java",
+          "sha": "ace06d8849c3a59f001416509d313021187ccb3e",
+          "lastSyncedAt": "2026-09-12T19:20:37.953Z"
         }
       ]
     },
