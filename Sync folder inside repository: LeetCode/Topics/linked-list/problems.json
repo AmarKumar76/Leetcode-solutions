@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-07T14:39:44.350Z",
+  "updatedAt": "2026-09-13T12:52:15.093Z",
   "problems": [
     {
       "frontendId": "148",
@@ -43,6 +43,26 @@
           "path": "Sync folder inside repository: LeetCode/1669-merge-in-between-linked-lists/1669-merge-in-between-linked-lists.java",
           "sha": "3ada94b41e1ae38a63478ce7424d38a19023c444",
           "lastSyncedAt": "2026-09-07T14:25:50.080Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3217",
+      "title": "Delete Nodes From Linked List Present in Array",
+      "slug": "delete-nodes-from-linked-list-present-in-array",
+      "problemName": "3217-delete-nodes-from-linked-list-present-in-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/",
+      "folderPath": "Sync folder inside repository: LeetCode/3217-delete-nodes-from-linked-list-present-in-array/",
+      "readmePath": "Sync folder inside repository: LeetCode/3217-delete-nodes-from-linked-list-present-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3217-delete-nodes-from-linked-list-present-in-array.java",
+          "path": "Sync folder inside repository: LeetCode/3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.java",
+          "sha": "f9a13c22e2a45b4cec5c8ac28c67b502c855e664",
+          "lastSyncedAt": "2026-09-13T12:52:15.093Z"
         }
       ]
     }
