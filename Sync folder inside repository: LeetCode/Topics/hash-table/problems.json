@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-12T19:20:37.953Z",
+  "updatedAt": "2026-09-13T12:52:15.093Z",
   "problems": [
     {
       "frontendId": "454",
@@ -103,6 +103,26 @@
           "path": "Sync folder inside repository: LeetCode/3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.java",
           "sha": "a1c63031453d32c8c602198cc386f815475f17c0",
           "lastSyncedAt": "2026-08-16T06:50:08.625Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3217",
+      "title": "Delete Nodes From Linked List Present in Array",
+      "slug": "delete-nodes-from-linked-list-present-in-array",
+      "problemName": "3217-delete-nodes-from-linked-list-present-in-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/",
+      "folderPath": "Sync folder inside repository: LeetCode/3217-delete-nodes-from-linked-list-present-in-array/",
+      "readmePath": "Sync folder inside repository: LeetCode/3217-delete-nodes-from-linked-list-present-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3217-delete-nodes-from-linked-list-present-in-array.java",
+          "path": "Sync folder inside repository: LeetCode/3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.java",
+          "sha": "f9a13c22e2a45b4cec5c8ac28c67b502c855e664",
+          "lastSyncedAt": "2026-09-13T12:52:15.093Z"
         }
       ]
     }
