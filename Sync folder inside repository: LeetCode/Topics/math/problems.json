@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-03T18:21:58.763Z",
+  "updatedAt": "2026-09-14T17:56:24.436Z",
   "problems": [
     {
       "frontendId": "1248",
@@ -23,6 +23,26 @@
           "path": "Sync folder inside repository: LeetCode/1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.java",
           "sha": "03c8691a5c6ff877e59c8aadda547bc08427ebbb",
           "lastSyncedAt": "2026-09-01T08:42:07.122Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1716",
+      "title": "Calculate Money in Leetcode Bank",
+      "slug": "calculate-money-in-leetcode-bank",
+      "problemName": "1716-calculate-money-in-leetcode-bank",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-money-in-leetcode-bank/",
+      "folderPath": "Sync folder inside repository: LeetCode/1716-calculate-money-in-leetcode-bank/",
+      "readmePath": "Sync folder inside repository: LeetCode/1716-calculate-money-in-leetcode-bank/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1716-calculate-money-in-leetcode-bank.java",
+          "path": "Sync folder inside repository: LeetCode/1716-calculate-money-in-leetcode-bank/1716-calculate-money-in-leetcode-bank.java",
+          "sha": "2f9680a4784744cb3815ca0e88dfb7ecd1de0963",
+          "lastSyncedAt": "2026-09-14T17:56:24.436Z"
         }
       ]
     },
