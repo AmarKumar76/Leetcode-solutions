@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-13T12:52:15.093Z",
+  "updatedAt": "2026-09-15T17:04:32.564Z",
   "problems": [
     {
       "frontendId": "410",
@@ -43,6 +43,26 @@
           "path": "Sync folder inside repository: LeetCode/0454-4sum-ii/0454-4sum-ii.java",
           "sha": "5139655e4f95baa337b4c445c91d316f24609355",
           "lastSyncedAt": "2026-09-01T07:22:48.799Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "problemName": "0540-single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+      "folderPath": "Sync folder inside repository: LeetCode/0540-single-element-in-a-sorted-array/",
+      "readmePath": "Sync folder inside repository: LeetCode/0540-single-element-in-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0540-single-element-in-a-sorted-array.java",
+          "path": "Sync folder inside repository: LeetCode/0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.java",
+          "sha": "256db89a6beabb2995979e9573e62b30b599c298",
+          "lastSyncedAt": "2026-09-15T17:04:32.564Z"
         }
       ]
     },
