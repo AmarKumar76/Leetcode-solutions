@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-09T03:30:59.471Z",
+  "updatedAt": "2026-09-17T05:27:04.635Z",
   "problems": [
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "Sync folder inside repository: LeetCode/0061-rotate-list/",
+      "readmePath": "Sync folder inside repository: LeetCode/0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0061-rotate-list.java",
+          "path": "Sync folder inside repository: LeetCode/0061-rotate-list/0061-rotate-list.java",
+          "sha": "d4965f391b9431494e7b2325d763e3b55e2a28cb",
+          "lastSyncedAt": "2026-09-17T05:27:04.635Z"
+        }
+      ]
+    },
     {
       "frontendId": "148",
       "title": "Sort List",
