@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-15T17:04:32.564Z",
+  "updatedAt": "2026-09-18T17:27:59.681Z",
   "problems": [
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "Sync folder inside repository: LeetCode/0283-move-zeroes/",
+      "readmePath": "Sync folder inside repository: LeetCode/0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0283-move-zeroes.java",
+          "path": "Sync folder inside repository: LeetCode/0283-move-zeroes/0283-move-zeroes.java",
+          "sha": "756f7b424e6005ecd3fed7be49ddeebaa9e1a0bc",
+          "lastSyncedAt": "2026-09-18T17:27:59.681Z"
+        }
+      ]
+    },
     {
       "frontendId": "410",
       "title": "Split Array Largest Sum",
