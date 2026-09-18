@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-17T05:27:04.635Z",
+  "updatedAt": "2026-09-18T17:27:59.681Z",
   "problems": [
     {
       "frontendId": "61",
@@ -43,6 +43,26 @@
           "path": "Sync folder inside repository: LeetCode/0148-sort-list/0148-sort-list.java",
           "sha": "ce51c4082f87929a01f358d5bfea6986e661985a",
           "lastSyncedAt": "2026-09-07T14:39:44.350Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "Sync folder inside repository: LeetCode/0283-move-zeroes/",
+      "readmePath": "Sync folder inside repository: LeetCode/0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0283-move-zeroes.java",
+          "path": "Sync folder inside repository: LeetCode/0283-move-zeroes/0283-move-zeroes.java",
+          "sha": "756f7b424e6005ecd3fed7be49ddeebaa9e1a0bc",
+          "lastSyncedAt": "2026-09-18T17:27:59.681Z"
         }
       ]
     },
