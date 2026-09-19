@@ -5,19 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 15 | 17 | 4 |
+| 39 | 17 | 18 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 7 days | 21 |
+| 3 days | 7 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-15 | 2 |
-| 2026-08-16 | 1 |
-| 2026-08-17 | 1 |
 | 2026-08-20 | 2 |
 | 2026-09-01 | 2 |
 | 2026-09-02 | 1 |
@@ -29,27 +26,30 @@ Contains topicwise list of solved problems.
 | 2026-09-09 | 1 |
 | 2026-09-13 | 1 |
 | 2026-09-14 | 1 |
+| 2026-09-17 | 1 |
+| 2026-09-18 | 1 |
+| 2026-09-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 42% |
-| Binary Tree | 11 | 31% |
-| Tree | 11 | 31% |
-| Depth-First Search | 9 | 25% |
-| Breadth-First Search | 7 | 19% |
-| Binary Search | 6 | 17% |
-| Hash Table | 5 | 14% |
-| Math | 5 | 14% |
-| Prefix Sum | 5 | 14% |
-| Sorting | 4 | 11% |
+| Array | 17 | 44% |
+| Binary Tree | 11 | 28% |
+| Tree | 11 | 28% |
+| Depth-First Search | 9 | 23% |
+| Breadth-First Search | 7 | 18% |
+| Binary Search | 6 | 15% |
+| Hash Table | 5 | 13% |
+| Math | 5 | 13% |
+| Prefix Sum | 5 | 13% |
+| Linked List | 4 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 15 |
+| [Array](Topics/array/) | 18 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 11 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 7 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Interactive](Topics/interactive/) | 1 |
-| [Linked List](Topics/linked-list/) | 3 |
+| [Linked List](Topics/linked-list/) | 4 |
 | [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
@@ -73,5 +73,5 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 5 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 11 |
-| [Two Pointers](Topics/two-pointers/) | 2 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
