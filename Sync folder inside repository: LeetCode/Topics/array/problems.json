@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-18T17:27:59.681Z",
+  "updatedAt": "2026-09-19T06:43:49.739Z",
   "problems": [
     {
       "frontendId": "283",
@@ -143,6 +143,26 @@
           "path": "Sync folder inside repository: LeetCode/1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.java",
           "sha": "03c8691a5c6ff877e59c8aadda547bc08427ebbb",
           "lastSyncedAt": "2026-09-01T08:42:07.122Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1299",
+      "title": "Replace Elements with Greatest Element on Right Side",
+      "slug": "replace-elements-with-greatest-element-on-right-side",
+      "problemName": "1299-replace-elements-with-greatest-element-on-right-side",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/",
+      "folderPath": "Sync folder inside repository: LeetCode/1299-replace-elements-with-greatest-element-on-right-side/",
+      "readmePath": "Sync folder inside repository: LeetCode/1299-replace-elements-with-greatest-element-on-right-side/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1299-replace-elements-with-greatest-element-on-right-side.java",
+          "path": "Sync folder inside repository: LeetCode/1299-replace-elements-with-greatest-element-on-right-side/1299-replace-elements-with-greatest-element-on-right-side.java",
+          "sha": "e4f8e595d12201fe1ef076574fea618a5fec01aa",
+          "lastSyncedAt": "2026-09-19T06:43:49.739Z"
         }
       ]
     },
