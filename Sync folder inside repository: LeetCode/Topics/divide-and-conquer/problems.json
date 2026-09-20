@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-09-07T14:39:44.350Z",
+  "updatedAt": "2026-09-20T17:40:47.217Z",
   "problems": [
     {
       "frontendId": "148",
@@ -23,6 +23,26 @@
           "path": "Sync folder inside repository: LeetCode/0148-sort-list/0148-sort-list.java",
           "sha": "ce51c4082f87929a01f358d5bfea6986e661985a",
           "lastSyncedAt": "2026-09-07T14:39:44.350Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "Sync folder inside repository: LeetCode/0912-sort-an-array/",
+      "readmePath": "Sync folder inside repository: LeetCode/0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0912-sort-an-array.java",
+          "path": "Sync folder inside repository: LeetCode/0912-sort-an-array/0912-sort-an-array.java",
+          "sha": "9b996c5d0c777b4222b0b0503b13b347307835fc",
+          "lastSyncedAt": "2026-09-20T17:40:47.217Z"
         }
       ]
     }
