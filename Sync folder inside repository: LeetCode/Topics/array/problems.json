@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-19T06:43:49.739Z",
+  "updatedAt": "2026-09-20T17:40:47.217Z",
   "problems": [
     {
       "frontendId": "283",
@@ -83,6 +83,26 @@
           "path": "Sync folder inside repository: LeetCode/0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.java",
           "sha": "256db89a6beabb2995979e9573e62b30b599c298",
           "lastSyncedAt": "2026-09-15T17:04:32.564Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "Sync folder inside repository: LeetCode/0912-sort-an-array/",
+      "readmePath": "Sync folder inside repository: LeetCode/0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0912-sort-an-array.java",
+          "path": "Sync folder inside repository: LeetCode/0912-sort-an-array/0912-sort-an-array.java",
+          "sha": "9b996c5d0c777b4222b0b0503b13b347307835fc",
+          "lastSyncedAt": "2026-09-20T17:40:47.217Z"
         }
       ]
     },
