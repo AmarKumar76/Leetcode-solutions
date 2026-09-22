@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 42 | 18 | 20 | 4 |
+| 43 | 18 | 21 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 7 days | 26 |
+| 6 days | 7 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
 | 2026-09-04 | 1 |
 | 2026-09-05 | 1 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-09-19 | 1 |
 | 2026-09-20 | 2 |
 | 2026-09-21 | 1 |
+| 2026-09-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 43% |
-| Binary Tree | 12 | 29% |
-| Tree | 12 | 29% |
-| Depth-First Search | 10 | 24% |
-| Breadth-First Search | 7 | 17% |
+| Array | 19 | 44% |
+| Binary Tree | 12 | 28% |
+| Tree | 12 | 28% |
+| Depth-First Search | 11 | 26% |
+| Breadth-First Search | 8 | 19% |
 | Binary Search | 6 | 14% |
 | Hash Table | 5 | 12% |
 | Math | 5 | 12% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 19 |
+| [Array](Topics/array/) | 20 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 12 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Interactive](Topics/interactive/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
 | [Math](Topics/math/) | 5 |
-| [Matrix](Topics/matrix/) | 2 |
+| [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
@@ -80,4 +80,5 @@ Contains topicwise list of solved problems.
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 11 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
+| [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
