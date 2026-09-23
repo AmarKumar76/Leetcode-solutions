@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-14T17:56:24.436Z",
+  "updatedAt": "2026-09-23T20:12:32.874Z",
   "problems": [
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "Sync folder inside repository: LeetCode/0067-add-binary/",
+      "readmePath": "Sync folder inside repository: LeetCode/0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0067-add-binary.java",
+          "path": "Sync folder inside repository: LeetCode/0067-add-binary/0067-add-binary.java",
+          "sha": "c41ca0fc850fd258cbc7d7691c60fa6189bebf75",
+          "lastSyncedAt": "2026-09-23T20:12:32.874Z"
+        }
+      ]
+    },
     {
       "frontendId": "1248",
       "title": "Count Number of Nice Subarrays",
