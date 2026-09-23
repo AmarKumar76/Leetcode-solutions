@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 18 | 21 | 4 |
+| 44 | 19 | 21 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 7 days | 27 |
+| 1 days | 7 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-03 | 1 |
 | 2026-09-04 | 1 |
 | 2026-09-05 | 1 |
 | 2026-09-06 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-20 | 2 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
+| 2026-09-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 44% |
-| Binary Tree | 12 | 28% |
-| Tree | 12 | 28% |
-| Depth-First Search | 11 | 26% |
-| Breadth-First Search | 8 | 19% |
+| Array | 19 | 43% |
+| Binary Tree | 12 | 27% |
+| Tree | 12 | 27% |
+| Depth-First Search | 11 | 25% |
+| Breadth-First Search | 8 | 18% |
 | Binary Search | 6 | 14% |
-| Hash Table | 5 | 12% |
-| Math | 5 | 12% |
-| Prefix Sum | 5 | 12% |
-| Sorting | 5 | 12% |
+| Math | 6 | 14% |
+| String | 6 | 14% |
+| Hash Table | 5 | 11% |
+| Prefix Sum | 5 | 11% |
 
 ## Topics
 
@@ -53,6 +53,7 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 12 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 7 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [counting](Topics/counting/) | 0 |
@@ -67,16 +68,16 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 6 |
+| [String](Topics/string/) | 7 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 11 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
