@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T18:03:23.593Z",
+  "updatedAt": "2026-09-24T17:49:36.696Z",
   "problems": [
     {
       "frontendId": "200",
@@ -323,6 +323,26 @@
           "path": "Sync folder inside repository: LeetCode/3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.java",
           "sha": "f9a13c22e2a45b4cec5c8ac28c67b502c855e664",
           "lastSyncedAt": "2026-09-13T12:52:15.093Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+      "folderPath": "Sync folder inside repository: LeetCode/3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "Sync folder inside repository: LeetCode/3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3550-smallest-index-with-digit-sum-equal-to-index.java",
+          "path": "Sync folder inside repository: LeetCode/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
+          "sha": "b38279c5d970b1ab88127a19ae96bbe960c86a11",
+          "lastSyncedAt": "2026-09-24T17:49:36.696Z"
         }
       ]
     },
