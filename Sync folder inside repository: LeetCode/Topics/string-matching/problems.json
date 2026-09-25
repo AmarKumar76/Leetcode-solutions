@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string-matching",
+    "name": "String Matching"
+  },
+  "updatedAt": "2026-09-25T13:06:31.709Z",
+  "problems": [
+    {
+      "frontendId": "572",
+      "title": "Subtree of Another Tree",
+      "slug": "subtree-of-another-tree",
+      "problemName": "0572-subtree-of-another-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+      "folderPath": "Sync folder inside repository: LeetCode/0572-subtree-of-another-tree/",
+      "readmePath": "Sync folder inside repository: LeetCode/0572-subtree-of-another-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0572-subtree-of-another-tree.java",
+          "path": "Sync folder inside repository: LeetCode/0572-subtree-of-another-tree/0572-subtree-of-another-tree.java",
+          "sha": "7ca4c1e6a464d1d7c492b65938c704d2d94a5a7a",
+          "lastSyncedAt": "2026-09-25T13:06:31.709Z"
+        }
+      ]
+    }
+  ]
+}
