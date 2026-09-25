@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-16T17:50:05.625Z",
+  "updatedAt": "2026-09-25T04:27:45.628Z",
   "problems": [
     {
       "frontendId": "94",
@@ -202,7 +202,7 @@
           "filename": "0543-diameter-of-binary-tree.java",
           "path": "Sync folder inside repository: LeetCode/0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.java",
           "sha": "8c6e47ef97ec5bf2ed6edc2be02700909c11ee67",
-          "lastSyncedAt": "2026-08-16T06:52:30.242Z"
+          "lastSyncedAt": "2026-09-25T04:27:45.628Z"
         }
       ]
     },
