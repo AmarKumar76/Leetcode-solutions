@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-13T12:52:15.093Z",
+  "updatedAt": "2026-09-26T17:40:37.568Z",
   "problems": [
     {
       "frontendId": "454",
@@ -123,6 +123,26 @@
           "path": "Sync folder inside repository: LeetCode/3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.java",
           "sha": "f9a13c22e2a45b4cec5c8ac28c67b502c855e664",
           "lastSyncedAt": "2026-09-13T12:52:15.093Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4048",
+      "title": "Count Values With Equally Spaced Occurrences I",
+      "slug": "count-values-with-equally-spaced-occurrences-i",
+      "problemName": "4048-count-values-with-equally-spaced-occurrences-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/",
+      "folderPath": "Sync folder inside repository: LeetCode/4048-count-values-with-equally-spaced-occurrences-i/",
+      "readmePath": "Sync folder inside repository: LeetCode/4048-count-values-with-equally-spaced-occurrences-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4048-count-values-with-equally-spaced-occurrences-i.java",
+          "path": "Sync folder inside repository: LeetCode/4048-count-values-with-equally-spaced-occurrences-i/4048-count-values-with-equally-spaced-occurrences-i.java",
+          "sha": "a281001adfad9de22affa373fc0f4cc351167e88",
+          "lastSyncedAt": "2026-09-26T17:40:37.568Z"
         }
       ]
     }
