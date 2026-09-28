@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database"
+  },
+  "updatedAt": "2026-09-28T07:32:36.663Z",
+  "problems": [
+    {
+      "frontendId": "1757",
+      "title": "Recyclable and Low Fat Products",
+      "slug": "recyclable-and-low-fat-products",
+      "problemName": "1757-recyclable-and-low-fat-products",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/recyclable-and-low-fat-products/",
+      "folderPath": "Sync folder inside repository: LeetCode/1757-recyclable-and-low-fat-products/",
+      "readmePath": "Sync folder inside repository: LeetCode/1757-recyclable-and-low-fat-products/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1757-recyclable-and-low-fat-products.sql",
+          "path": "Sync folder inside repository: LeetCode/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql",
+          "sha": "413eb9aa9e4c02482e7aa74dae88aec0434a2e55",
+          "lastSyncedAt": "2026-09-28T07:32:36.663Z"
+        }
+      ]
+    }
+  ]
+}
