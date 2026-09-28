@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-16T06:50:41.941Z",
+  "updatedAt": "2026-09-28T05:31:02.140Z",
   "problems": [
     {
       "frontendId": "94",
@@ -23,6 +23,26 @@
           "path": "Sync folder inside repository: LeetCode/0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.java",
           "sha": "0aad81bd76c0c10d1a734c9c8b485b203b3b2b27",
           "lastSyncedAt": "2026-08-16T06:50:41.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "problemName": "0114-flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+      "folderPath": "Sync folder inside repository: LeetCode/0114-flatten-binary-tree-to-linked-list/",
+      "readmePath": "Sync folder inside repository: LeetCode/0114-flatten-binary-tree-to-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0114-flatten-binary-tree-to-linked-list.java",
+          "path": "Sync folder inside repository: LeetCode/0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.java",
+          "sha": "ba2270912e8912d4c90e8eb23e96e735a31c6eeb",
+          "lastSyncedAt": "2026-09-28T05:31:02.140Z"
         }
       ]
     }
