@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-28T07:32:36.663Z",
+  "updatedAt": "2026-09-28T07:43:01.870Z",
   "problems": [
+    {
+      "frontendId": "595",
+      "title": "Big Countries",
+      "slug": "big-countries",
+      "problemName": "0595-big-countries",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/big-countries/",
+      "folderPath": "Sync folder inside repository: LeetCode/0595-big-countries/",
+      "readmePath": "Sync folder inside repository: LeetCode/0595-big-countries/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0595-big-countries.sql",
+          "path": "Sync folder inside repository: LeetCode/0595-big-countries/0595-big-countries.sql",
+          "sha": "71ed457af378ee9a13446d123a4c1d9b45992683",
+          "lastSyncedAt": "2026-09-28T07:43:01.870Z"
+        }
+      ]
+    },
     {
       "frontendId": "1757",
       "title": "Recyclable and Low Fat Products",
