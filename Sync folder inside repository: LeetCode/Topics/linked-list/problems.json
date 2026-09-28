@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-28T05:31:02.140Z",
+  "updatedAt": "2026-09-28T05:39:10.612Z",
   "problems": [
     {
       "frontendId": "61",
@@ -42,7 +42,7 @@
           "filename": "0114-flatten-binary-tree-to-linked-list.java",
           "path": "Sync folder inside repository: LeetCode/0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.java",
           "sha": "ba2270912e8912d4c90e8eb23e96e735a31c6eeb",
-          "lastSyncedAt": "2026-09-28T05:31:02.140Z"
+          "lastSyncedAt": "2026-09-28T05:39:10.612Z"
         }
       ]
     },
