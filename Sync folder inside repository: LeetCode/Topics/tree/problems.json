@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-28T05:39:10.612Z",
+  "updatedAt": "2026-09-29T04:27:52.621Z",
   "problems": [
     {
       "frontendId": "94",
@@ -203,6 +203,26 @@
           "path": "Sync folder inside repository: LeetCode/0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.java",
           "sha": "f8b645c567fb75b4e11eedda2c0ab7895d9dffc8",
           "lastSyncedAt": "2026-09-28T02:39:05.030Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "437",
+      "title": "Path Sum III",
+      "slug": "path-sum-iii",
+      "problemName": "0437-path-sum-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum-iii/",
+      "folderPath": "Sync folder inside repository: LeetCode/0437-path-sum-iii/",
+      "readmePath": "Sync folder inside repository: LeetCode/0437-path-sum-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0437-path-sum-iii.java",
+          "path": "Sync folder inside repository: LeetCode/0437-path-sum-iii/0437-path-sum-iii.java",
+          "sha": "938d764f795164c597b062cc88956558894ba663",
+          "lastSyncedAt": "2026-09-29T04:27:52.621Z"
         }
       ]
     },
