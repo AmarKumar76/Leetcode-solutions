@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-28T08:03:11.737Z",
+  "updatedAt": "2026-09-29T07:17:21.851Z",
   "problems": [
     {
       "frontendId": "584",
@@ -43,6 +43,26 @@
           "path": "Sync folder inside repository: LeetCode/0595-big-countries/0595-big-countries.sql",
           "sha": "71ed457af378ee9a13446d123a4c1d9b45992683",
           "lastSyncedAt": "2026-09-28T07:43:01.870Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1148",
+      "title": "Article Views I",
+      "slug": "article-views-i",
+      "problemName": "1148-article-views-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/article-views-i/",
+      "folderPath": "Sync folder inside repository: LeetCode/1148-article-views-i/",
+      "readmePath": "Sync folder inside repository: LeetCode/1148-article-views-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1148-article-views-i.sql",
+          "path": "Sync folder inside repository: LeetCode/1148-article-views-i/1148-article-views-i.sql",
+          "sha": "952f94ca7b49fe3aafcb770477f47708ff355812",
+          "lastSyncedAt": "2026-09-29T07:17:21.851Z"
         }
       ]
     },
