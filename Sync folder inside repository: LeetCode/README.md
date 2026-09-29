@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 59 | 30 | 25 | 4 |
+| 60 | 31 | 25 | 4 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-09-25 | 1 |
 | 2026-09-26 | 1 |
 | 2026-09-28 | 5 |
-| 2026-09-29 | 8 |
+| 2026-09-29 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 34% |
-| Binary Tree | 17 | 29% |
-| Tree | 17 | 29% |
+| Array | 20 | 33% |
+| Binary Tree | 17 | 28% |
+| Tree | 17 | 28% |
 | Depth-First Search | 16 | 27% |
-| Database | 9 | 15% |
-| Breadth-First Search | 8 | 14% |
+| Database | 10 | 17% |
+| Breadth-First Search | 8 | 13% |
 | Binary Search | 6 | 10% |
 | Hash Table | 6 | 10% |
 | Math | 6 | 10% |
@@ -59,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [counting](Topics/counting/) | 0 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
-| [Database](Topics/database/) | 9 |
+| [Database](Topics/database/) | 10 |
 | [Depth-First Search](Topics/depth-first-search/) | 15 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
