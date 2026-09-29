@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-29T08:05:57.756Z",
+  "updatedAt": "2026-09-29T08:07:52.329Z",
   "problems": [
     {
       "frontendId": "197",
@@ -22,7 +22,7 @@
           "filename": "0197-rising-temperature.sql",
           "path": "Sync folder inside repository: LeetCode/0197-rising-temperature/0197-rising-temperature.sql",
           "sha": "563084b015eed4e301965318b4d278ed97e8abbc",
-          "lastSyncedAt": "2026-09-29T08:05:57.756Z"
+          "lastSyncedAt": "2026-09-29T08:07:52.329Z"
         }
       ]
     },
