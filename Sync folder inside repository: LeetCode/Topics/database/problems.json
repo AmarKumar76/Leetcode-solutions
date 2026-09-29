@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-29T07:51:58.725Z",
+  "updatedAt": "2026-09-29T08:05:57.756Z",
   "problems": [
+    {
+      "frontendId": "197",
+      "title": "Rising Temperature",
+      "slug": "rising-temperature",
+      "problemName": "0197-rising-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rising-temperature/",
+      "folderPath": "Sync folder inside repository: LeetCode/0197-rising-temperature/",
+      "readmePath": "Sync folder inside repository: LeetCode/0197-rising-temperature/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0197-rising-temperature.sql",
+          "path": "Sync folder inside repository: LeetCode/0197-rising-temperature/0197-rising-temperature.sql",
+          "sha": "563084b015eed4e301965318b4d278ed97e8abbc",
+          "lastSyncedAt": "2026-09-29T08:05:57.756Z"
+        }
+      ]
+    },
     {
       "frontendId": "584",
       "title": "Find Customer Referee",
