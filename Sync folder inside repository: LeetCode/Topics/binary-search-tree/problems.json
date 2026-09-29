@@ -4,7 +4,7 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-09-21T17:17:42.845Z",
+  "updatedAt": "2026-09-29T05:30:40.833Z",
   "problems": [
     {
       "frontendId": "98",
@@ -23,6 +23,26 @@
           "path": "Sync folder inside repository: LeetCode/0098-validate-binary-search-tree/0098-validate-binary-search-tree.java",
           "sha": "41020f71fb96d10e68c918f8bedb2e92ed145c31",
           "lastSyncedAt": "2026-09-21T17:17:42.845Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "230",
+      "title": "Kth Smallest Element in a BST",
+      "slug": "kth-smallest-element-in-a-bst",
+      "problemName": "0230-kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+      "folderPath": "Sync folder inside repository: LeetCode/0230-kth-smallest-element-in-a-bst/",
+      "readmePath": "Sync folder inside repository: LeetCode/0230-kth-smallest-element-in-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0230-kth-smallest-element-in-a-bst.java",
+          "path": "Sync folder inside repository: LeetCode/0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.java",
+          "sha": "9fa1f10732fcb598432266829e83b2f51772a964",
+          "lastSyncedAt": "2026-09-29T05:30:40.833Z"
         }
       ]
     }
