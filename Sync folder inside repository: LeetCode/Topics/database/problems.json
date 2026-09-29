@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-29T07:40:14.296Z",
+  "updatedAt": "2026-09-29T07:51:58.725Z",
   "problems": [
     {
       "frontendId": "584",
@@ -103,6 +103,26 @@
           "path": "Sync folder inside repository: LeetCode/1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql",
           "sha": "81fcefec0d65c57678374c8838db7f338e6901b8",
           "lastSyncedAt": "2026-09-29T07:33:13.436Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1581",
+      "title": "Customer Who Visited but Did Not Make Any Transactions",
+      "slug": "customer-who-visited-but-did-not-make-any-transactions",
+      "problemName": "1581-customer-who-visited-but-did-not-make-any-transactions",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/",
+      "folderPath": "Sync folder inside repository: LeetCode/1581-customer-who-visited-but-did-not-make-any-transactions/",
+      "readmePath": "Sync folder inside repository: LeetCode/1581-customer-who-visited-but-did-not-make-any-transactions/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1581-customer-who-visited-but-did-not-make-any-transactions.sql",
+          "path": "Sync folder inside repository: LeetCode/1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql",
+          "sha": "4ad98ee4e4d3bcf257f08b07a531d803f928b9c0",
+          "lastSyncedAt": "2026-09-29T07:51:58.725Z"
         }
       ]
     },
