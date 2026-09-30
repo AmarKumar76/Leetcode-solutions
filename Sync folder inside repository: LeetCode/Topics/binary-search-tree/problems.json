@@ -4,7 +4,7 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-09-30T02:53:39.008Z",
+  "updatedAt": "2026-09-30T02:56:47.481Z",
   "problems": [
     {
       "frontendId": "98",
@@ -63,6 +63,26 @@
           "path": "Sync folder inside repository: LeetCode/0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.java",
           "sha": "1bb5a4697175bc8d57abe539b19be5c1aefe9a3c",
           "lastSyncedAt": "2026-09-30T02:53:39.008Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "problemName": "0700-search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+      "folderPath": "Sync folder inside repository: LeetCode/0700-search-in-a-binary-search-tree/",
+      "readmePath": "Sync folder inside repository: LeetCode/0700-search-in-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0700-search-in-a-binary-search-tree.java",
+          "path": "Sync folder inside repository: LeetCode/0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.java",
+          "sha": "5b8d4453024e504b1d0b89e296167fcac22bc280",
+          "lastSyncedAt": "2026-09-30T02:56:47.481Z"
         }
       ]
     }
