@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 67 | 35 | 28 | 4 |
+| 68 | 36 | 28 | 4 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-28 | 5 |
 | 2026-09-29 | 9 |
 | 2026-09-30 | 5 |
-| 2026-10-01 | 2 |
+| 2026-10-01 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 24 | 36% |
-| Tree | 24 | 36% |
+| Binary Tree | 24 | 35% |
+| Tree | 24 | 35% |
 | Array | 21 | 31% |
-| Depth-First Search | 20 | 30% |
+| Depth-First Search | 20 | 29% |
 | Breadth-First Search | 10 | 15% |
 | Database | 10 | 15% |
 | Binary Search Tree | 9 | 13% |
+| String | 7 | 10% |
 | Binary Search | 6 | 9% |
 | Hash Table | 6 | 9% |
-| Math | 6 | 9% |
 
 ## Topics
 
@@ -55,6 +55,7 @@ Contains topicwise list of solved problems.
 | [Binary Search Tree](Topics/binary-search-tree/) | 9 |
 | [Binary Tree](Topics/binary-tree/) | 24 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 9 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [counting](Topics/counting/) | 0 |
@@ -80,8 +81,8 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 5 |
-| [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 7 |
+| [Stack](Topics/stack/) | 3 |
+| [String](Topics/string/) | 8 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 23 |
