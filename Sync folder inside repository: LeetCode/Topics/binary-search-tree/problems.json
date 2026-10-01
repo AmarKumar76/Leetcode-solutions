@@ -4,7 +4,7 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-10-01T04:08:19.682Z",
+  "updatedAt": "2026-10-01T04:16:44.979Z",
   "problems": [
     {
       "frontendId": "98",
@@ -123,6 +123,26 @@
           "path": "Sync folder inside repository: LeetCode/0530-minimum-absolute-difference-in-bst/0530-minimum-absolute-difference-in-bst.java",
           "sha": "7fdb519edca73203a53c29eecd8b6fc241cbee2d",
           "lastSyncedAt": "2026-10-01T04:05:57.428Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "669",
+      "title": "Trim a Binary Search Tree",
+      "slug": "trim-a-binary-search-tree",
+      "problemName": "0669-trim-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/trim-a-binary-search-tree/",
+      "folderPath": "Sync folder inside repository: LeetCode/0669-trim-a-binary-search-tree/",
+      "readmePath": "Sync folder inside repository: LeetCode/0669-trim-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0669-trim-a-binary-search-tree.java",
+          "path": "Sync folder inside repository: LeetCode/0669-trim-a-binary-search-tree/0669-trim-a-binary-search-tree.java",
+          "sha": "d35178da16c08fd30dd459206d798eb858b5128a",
+          "lastSyncedAt": "2026-10-01T04:16:44.979Z"
         }
       ]
     },
