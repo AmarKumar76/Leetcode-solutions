@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-10-01T04:16:44.979Z",
+  "updatedAt": "2026-10-01T04:35:57.388Z",
   "problems": [
     {
       "frontendId": "94",
@@ -303,6 +303,26 @@
           "path": "Sync folder inside repository: LeetCode/0530-minimum-absolute-difference-in-bst/0530-minimum-absolute-difference-in-bst.java",
           "sha": "7fdb519edca73203a53c29eecd8b6fc241cbee2d",
           "lastSyncedAt": "2026-10-01T04:05:57.428Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "538",
+      "title": "Convert BST to Greater Tree",
+      "slug": "convert-bst-to-greater-tree",
+      "problemName": "0538-convert-bst-to-greater-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-bst-to-greater-tree/",
+      "folderPath": "Sync folder inside repository: LeetCode/0538-convert-bst-to-greater-tree/",
+      "readmePath": "Sync folder inside repository: LeetCode/0538-convert-bst-to-greater-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0538-convert-bst-to-greater-tree.java",
+          "path": "Sync folder inside repository: LeetCode/0538-convert-bst-to-greater-tree/0538-convert-bst-to-greater-tree.java",
+          "sha": "b167bd80b3139396e4666278825992ab3807e0b5",
+          "lastSyncedAt": "2026-10-01T04:35:57.388Z"
         }
       ]
     },
