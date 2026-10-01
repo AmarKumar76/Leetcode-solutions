@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bracket-sequences",
+    "name": "Bracket Sequences"
+  },
+  "updatedAt": "2026-10-01T04:10:25.669Z",
+  "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "Sync folder inside repository: LeetCode/0020-valid-parentheses/",
+      "readmePath": "Sync folder inside repository: LeetCode/0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0020-valid-parentheses.java",
+          "path": "Sync folder inside repository: LeetCode/0020-valid-parentheses/0020-valid-parentheses.java",
+          "sha": "796ede6883c14624af86b1b02d522881a893db9a",
+          "lastSyncedAt": "2026-10-01T04:10:25.669Z"
+        }
+      ]
+    }
+  ]
+}
