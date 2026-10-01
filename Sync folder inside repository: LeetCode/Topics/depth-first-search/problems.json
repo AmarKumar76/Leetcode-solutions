@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-10-01T04:05:57.428Z",
+  "updatedAt": "2026-10-01T04:08:19.682Z",
   "problems": [
     {
       "frontendId": "94",
@@ -343,6 +343,26 @@
           "path": "Sync folder inside repository: LeetCode/0572-subtree-of-another-tree/0572-subtree-of-another-tree.java",
           "sha": "7ca4c1e6a464d1d7c492b65938c704d2d94a5a7a",
           "lastSyncedAt": "2026-09-25T13:06:31.709Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "783",
+      "title": "Minimum Distance Between BST Nodes",
+      "slug": "minimum-distance-between-bst-nodes",
+      "problemName": "0783-minimum-distance-between-bst-nodes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/",
+      "folderPath": "Sync folder inside repository: LeetCode/0783-minimum-distance-between-bst-nodes/",
+      "readmePath": "Sync folder inside repository: LeetCode/0783-minimum-distance-between-bst-nodes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0783-minimum-distance-between-bst-nodes.java",
+          "path": "Sync folder inside repository: LeetCode/0783-minimum-distance-between-bst-nodes/0783-minimum-distance-between-bst-nodes.java",
+          "sha": "a2e2515b782837ed6d337f2a1e73c3810c8d0dde",
+          "lastSyncedAt": "2026-10-01T04:08:19.682Z"
         }
       ]
     },
