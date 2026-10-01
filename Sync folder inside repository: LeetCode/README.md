@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 69 | 36 | 29 | 4 |
+| 70 | 36 | 30 | 4 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-09-28 | 5 |
 | 2026-09-29 | 9 |
 | 2026-09-30 | 5 |
-| 2026-10-01 | 4 |
+| 2026-10-01 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 25 | 36% |
-| Tree | 25 | 36% |
+| Binary Tree | 26 | 37% |
+| Tree | 26 | 37% |
+| Depth-First Search | 22 | 31% |
 | Array | 21 | 30% |
-| Depth-First Search | 21 | 30% |
-| Binary Search Tree | 10 | 14% |
+| Binary Search Tree | 11 | 16% |
 | Breadth-First Search | 10 | 14% |
 | Database | 10 | 14% |
 | String | 7 | 10% |
@@ -52,8 +52,8 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 23 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 6 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 10 |
-| [Binary Tree](Topics/binary-tree/) | 25 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 11 |
+| [Binary Tree](Topics/binary-tree/) | 26 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 9 |
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [counting](Topics/counting/) | 0 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 10 |
-| [Depth-First Search](Topics/depth-first-search/) | 20 |
+| [Depth-First Search](Topics/depth-first-search/) | 21 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
@@ -85,7 +85,7 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 8 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
-| [Tree](Topics/tree/) | 24 |
+| [Tree](Topics/tree/) | 25 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
