@@ -4,7 +4,7 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-10-01T04:35:57.388Z",
+  "updatedAt": "2026-10-01T04:53:45.558Z",
   "problems": [
     {
       "frontendId": "98",
@@ -223,6 +223,26 @@
           "path": "Sync folder inside repository: LeetCode/0783-minimum-distance-between-bst-nodes/0783-minimum-distance-between-bst-nodes.java",
           "sha": "a2e2515b782837ed6d337f2a1e73c3810c8d0dde",
           "lastSyncedAt": "2026-10-01T04:08:19.682Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "938",
+      "title": "Range Sum of BST",
+      "slug": "range-sum-of-bst",
+      "problemName": "0938-range-sum-of-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-of-bst/",
+      "folderPath": "Sync folder inside repository: LeetCode/0938-range-sum-of-bst/",
+      "readmePath": "Sync folder inside repository: LeetCode/0938-range-sum-of-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0938-range-sum-of-bst.java",
+          "path": "Sync folder inside repository: LeetCode/0938-range-sum-of-bst/0938-range-sum-of-bst.java",
+          "sha": "5caae64dbdce1e96839396218d1504f5535d0bed",
+          "lastSyncedAt": "2026-10-01T04:53:45.558Z"
         }
       ]
     }
