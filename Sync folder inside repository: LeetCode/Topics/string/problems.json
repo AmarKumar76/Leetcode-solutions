@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-01T04:10:25.669Z",
+  "updatedAt": "2026-10-02T04:42:45.131Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "Sync folder inside repository: LeetCode/0115-distinct-subsequences/0115-distinct-subsequences.java",
           "sha": "c7330c8c7175833b2a85c46391dbc042409f4501",
           "lastSyncedAt": "2026-09-06T04:50:34.922Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "problemName": "0257-binary-tree-paths",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+      "folderPath": "Sync folder inside repository: LeetCode/0257-binary-tree-paths/",
+      "readmePath": "Sync folder inside repository: LeetCode/0257-binary-tree-paths/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0257-binary-tree-paths.java",
+          "path": "Sync folder inside repository: LeetCode/0257-binary-tree-paths/0257-binary-tree-paths.java",
+          "sha": "2e24da569c6948e087f20c5c6d0a11de253b2959",
+          "lastSyncedAt": "2026-10-02T04:42:45.131Z"
         }
       ]
     },
