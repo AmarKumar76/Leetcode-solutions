@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-10-01T04:35:57.388Z",
+  "updatedAt": "2026-10-02T04:42:45.131Z",
   "problems": [
     {
       "frontendId": "94",
@@ -303,6 +303,26 @@
           "path": "Sync folder inside repository: LeetCode/0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.java",
           "sha": "f8b645c567fb75b4e11eedda2c0ab7895d9dffc8",
           "lastSyncedAt": "2026-09-28T02:39:05.030Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "problemName": "0257-binary-tree-paths",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+      "folderPath": "Sync folder inside repository: LeetCode/0257-binary-tree-paths/",
+      "readmePath": "Sync folder inside repository: LeetCode/0257-binary-tree-paths/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0257-binary-tree-paths.java",
+          "path": "Sync folder inside repository: LeetCode/0257-binary-tree-paths/0257-binary-tree-paths.java",
+          "sha": "2e24da569c6948e087f20c5c6d0a11de253b2959",
+          "lastSyncedAt": "2026-10-02T04:42:45.131Z"
         }
       ]
     },
