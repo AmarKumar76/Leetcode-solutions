@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking"
+  },
+  "updatedAt": "2026-10-02T04:42:45.131Z",
+  "problems": [
+    {
+      "frontendId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "problemName": "0257-binary-tree-paths",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+      "folderPath": "Sync folder inside repository: LeetCode/0257-binary-tree-paths/",
+      "readmePath": "Sync folder inside repository: LeetCode/0257-binary-tree-paths/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0257-binary-tree-paths.java",
+          "path": "Sync folder inside repository: LeetCode/0257-binary-tree-paths/0257-binary-tree-paths.java",
+          "sha": "2e24da569c6948e087f20c5c6d0a11de253b2959",
+          "lastSyncedAt": "2026-10-02T04:42:45.131Z"
+        }
+      ]
+    }
+  ]
+}
