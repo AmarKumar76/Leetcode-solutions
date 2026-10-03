@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-10-03T02:32:15.120Z",
+  "updatedAt": "2026-10-03T03:13:04.304Z",
   "problems": [
     {
       "frontendId": "108",
@@ -42,7 +42,7 @@
           "filename": "0109-convert-sorted-list-to-binary-search-tree.java",
           "path": "Sync folder inside repository: LeetCode/0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.java",
           "sha": "4c3c60e3513902248fad5a9d9658d55fc3dbbd6e",
-          "lastSyncedAt": "2026-10-03T02:32:15.120Z"
+          "lastSyncedAt": "2026-10-03T03:13:04.304Z"
         }
       ]
     },
