@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-10-01T04:08:19.682Z",
+  "updatedAt": "2026-10-04T16:46:12.216Z",
   "problems": [
     {
       "frontendId": "100",
@@ -123,6 +123,26 @@
           "path": "Sync folder inside repository: LeetCode/0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.java",
           "sha": "90595f803497e4d4a185ddf17521329bba0985a2",
           "lastSyncedAt": "2026-08-16T06:51:49.884Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "Sync folder inside repository: LeetCode/0200-number-of-islands/",
+      "readmePath": "Sync folder inside repository: LeetCode/0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0200-number-of-islands.java",
+          "path": "Sync folder inside repository: LeetCode/0200-number-of-islands/0200-number-of-islands.java",
+          "sha": "e57e667b842d9dcb72251fe9f45443e85d8a6841",
+          "lastSyncedAt": "2026-10-04T16:46:12.216Z"
         }
       ]
     },
