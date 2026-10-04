@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T05:00:43.234Z",
+  "updatedAt": "2026-10-04T16:46:12.216Z",
   "problems": [
     {
       "frontendId": "108",
@@ -42,7 +42,7 @@
           "filename": "0200-number-of-islands.java",
           "path": "Sync folder inside repository: LeetCode/0200-number-of-islands/0200-number-of-islands.java",
           "sha": "e57e667b842d9dcb72251fe9f45443e85d8a6841",
-          "lastSyncedAt": "2026-09-22T18:03:23.593Z"
+          "lastSyncedAt": "2026-10-04T16:46:12.216Z"
         }
       ]
     },
