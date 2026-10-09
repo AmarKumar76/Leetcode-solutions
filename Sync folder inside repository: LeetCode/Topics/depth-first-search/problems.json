@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "depth-first-search",
-    "name": "Depth-First Search"
+    "name": "Depth-First Search",
+    "tagId": "21"
   },
-  "updatedAt": "2026-10-04T16:46:12.216Z",
+  "updatedAt": "2026-10-09T18:52:40.329Z",
   "problems": [
     {
       "frontendId": "94",
@@ -423,6 +424,26 @@
           "path": "Sync folder inside repository: LeetCode/0669-trim-a-binary-search-tree/0669-trim-a-binary-search-tree.java",
           "sha": "d35178da16c08fd30dd459206d798eb858b5128a",
           "lastSyncedAt": "2026-10-01T04:16:44.979Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "733",
+      "title": "Flood Fill",
+      "slug": "flood-fill",
+      "problemName": "0733-flood-fill",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/flood-fill/",
+      "folderPath": "Sync folder inside repository: LeetCode/0733-flood-fill/",
+      "readmePath": "Sync folder inside repository: LeetCode/0733-flood-fill/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0733-flood-fill.java",
+          "path": "Sync folder inside repository: LeetCode/0733-flood-fill/0733-flood-fill.java",
+          "sha": "19ebc534f90545a2588e6b096a05b03e1df19151",
+          "lastSyncedAt": "2026-10-09T18:52:40.329Z"
         }
       ]
     },
