@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 72 | 37 | 31 | 4 |
+| 73 | 38 | 31 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 7 days | 36 |
+| 1 days | 7 days | 37 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
 | 2026-09-20 | 2 |
 | 2026-09-21 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-10-01 | 5 |
 | 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
+| 2026-10-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 28 | 39% |
-| Tree | 28 | 39% |
-| Depth-First Search | 23 | 32% |
-| Array | 21 | 29% |
-| Binary Search Tree | 12 | 17% |
-| Breadth-First Search | 10 | 14% |
+| Binary Tree | 28 | 38% |
+| Tree | 28 | 38% |
+| Depth-First Search | 24 | 33% |
+| Array | 22 | 30% |
+| Binary Search Tree | 12 | 16% |
+| Breadth-First Search | 11 | 15% |
 | Database | 10 | 14% |
 | String | 8 | 11% |
 | Binary Search | 6 | 8% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 23 |
+| [Array](Topics/array/) | 24 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 6 |
@@ -57,12 +57,12 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 28 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 10 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 11 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [counting](Topics/counting/) | 0 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 10 |
-| [Depth-First Search](Topics/depth-first-search/) | 24 |
+| [Depth-First Search](Topics/depth-first-search/) | 25 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
@@ -75,7 +75,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 6 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Math](Topics/math/) | 6 |
-| [Matrix](Topics/matrix/) | 3 |
+| [Matrix](Topics/matrix/) | 4 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
