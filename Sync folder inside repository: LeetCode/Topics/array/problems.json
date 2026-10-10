@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T18:52:40.329Z",
+  "updatedAt": "2026-10-10T17:50:03.910Z",
   "problems": [
     {
       "frontendId": "108",
@@ -184,6 +184,26 @@
           "path": "Sync folder inside repository: LeetCode/0974-subarray-sums-divisible-by-k/0974-subarray-sums-divisible-by-k.java",
           "sha": "8fa47152fbdde7aa54aeb913f8724073ed712a04",
           "lastSyncedAt": "2026-08-20T06:57:50.401Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "Sync folder inside repository: LeetCode/0994-rotting-oranges/",
+      "readmePath": "Sync folder inside repository: LeetCode/0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0994-rotting-oranges.java",
+          "path": "Sync folder inside repository: LeetCode/0994-rotting-oranges/0994-rotting-oranges.java",
+          "sha": "cd24c1d89f92d587f3a77e3b05fbec61fed25e98",
+          "lastSyncedAt": "2026-10-10T17:50:03.910Z"
         }
       ]
     },
