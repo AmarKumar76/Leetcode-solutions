@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-09T18:52:40.329Z",
+  "updatedAt": "2026-10-10T17:50:03.910Z",
   "problems": [
     {
       "frontendId": "200",
@@ -44,6 +44,26 @@
           "path": "Sync folder inside repository: LeetCode/0733-flood-fill/0733-flood-fill.java",
           "sha": "19ebc534f90545a2588e6b096a05b03e1df19151",
           "lastSyncedAt": "2026-10-09T18:52:40.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "Sync folder inside repository: LeetCode/0994-rotting-oranges/",
+      "readmePath": "Sync folder inside repository: LeetCode/0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0994-rotting-oranges.java",
+          "path": "Sync folder inside repository: LeetCode/0994-rotting-oranges/0994-rotting-oranges.java",
+          "sha": "cd24c1d89f92d587f3a77e3b05fbec61fed25e98",
+          "lastSyncedAt": "2026-10-10T17:50:03.910Z"
         }
       ]
     },
