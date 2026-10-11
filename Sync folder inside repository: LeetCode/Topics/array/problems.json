@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T17:50:03.910Z",
+  "updatedAt": "2026-10-11T02:26:21.930Z",
   "problems": [
     {
       "frontendId": "108",
@@ -364,6 +364,26 @@
           "path": "Sync folder inside repository: LeetCode/2187-minimum-time-to-complete-trips/2187-minimum-time-to-complete-trips.java",
           "sha": "707d26b8d57c6c391d50586729b660d0c487de28",
           "lastSyncedAt": "2026-08-17T07:49:37.411Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "Sync folder inside repository: LeetCode/2778-sum-of-squares-of-special-elements/",
+      "readmePath": "Sync folder inside repository: LeetCode/2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2778-sum-of-squares-of-special-elements.java",
+          "path": "Sync folder inside repository: LeetCode/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
+          "sha": "c6687e48e5a1e09324fe05f088b663b221a85247",
+          "lastSyncedAt": "2026-10-11T02:26:21.930Z"
         }
       ]
     },
