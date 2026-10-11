@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 75 | 39 | 32 | 4 |
+| 76 | 39 | 33 | 4 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
 | 2026-10-10 | 2 |
-| 2026-10-11 | 1 |
+| 2026-10-11 | 2 |
 
 ## Top Tags
 
@@ -36,7 +36,7 @@ Contains topicwise list of solved problems.
 | --- | ---: | ---: |
 | Binary Tree | 28 | 37% |
 | Tree | 28 | 37% |
-| Array | 24 | 32% |
+| Array | 25 | 33% |
 | Depth-First Search | 24 | 32% |
 | Binary Search Tree | 12 | 16% |
 | Breadth-First Search | 12 | 16% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 26 |
+| [Array](Topics/array/) | 27 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 6 |
@@ -63,14 +63,14 @@ Contains topicwise list of solved problems.
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 10 |
 | [Depth-First Search](Topics/depth-first-search/) | 25 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 7 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
@@ -78,10 +78,11 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 5 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
+| [Quickselect](Topics/quickselect/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 5 |
+| [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 9 |
 | [String Matching](Topics/string-matching/) | 1 |
