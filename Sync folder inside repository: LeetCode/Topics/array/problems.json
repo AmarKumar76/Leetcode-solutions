@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T12:35:26.555Z",
+  "updatedAt": "2026-10-12T18:33:37.928Z",
   "problems": [
     {
       "frontendId": "108",
@@ -224,6 +224,26 @@
           "path": "Sync folder inside repository: LeetCode/0994-rotting-oranges/0994-rotting-oranges.java",
           "sha": "cd24c1d89f92d587f3a77e3b05fbec61fed25e98",
           "lastSyncedAt": "2026-10-10T17:50:03.910Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1046",
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "problemName": "1046-last-stone-weight",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
+      "folderPath": "Sync folder inside repository: LeetCode/1046-last-stone-weight/",
+      "readmePath": "Sync folder inside repository: LeetCode/1046-last-stone-weight/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1046-last-stone-weight.java",
+          "path": "Sync folder inside repository: LeetCode/1046-last-stone-weight/1046-last-stone-weight.java",
+          "sha": "b74ace629dfcbf15a087fcf72454a1037b569ee6",
+          "lastSyncedAt": "2026-10-12T18:33:37.928Z"
         }
       ]
     },
