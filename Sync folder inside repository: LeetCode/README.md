@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 76 | 39 | 33 | 4 |
+| 78 | 40 | 34 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 7 days | 38 |
+| 1 days | 7 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-20 | 2 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-24 | 1 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-03 | 1 |
 | 2026-10-10 | 2 |
 | 2026-10-11 | 2 |
+| 2026-10-13 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 28 | 37% |
-| Tree | 28 | 37% |
-| Array | 25 | 33% |
-| Depth-First Search | 24 | 32% |
-| Binary Search Tree | 12 | 16% |
-| Breadth-First Search | 12 | 16% |
+| Binary Tree | 28 | 36% |
+| Tree | 28 | 36% |
+| Array | 26 | 33% |
+| Depth-First Search | 25 | 32% |
+| Breadth-First Search | 13 | 17% |
+| Binary Search Tree | 12 | 15% |
 | Database | 10 | 13% |
-| String | 8 | 11% |
+| String | 8 | 10% |
 | Binary Search | 6 | 8% |
 | Hash Table | 6 | 8% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 6 |
@@ -57,20 +57,21 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 28 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 12 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 13 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [counting](Topics/counting/) | 0 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 10 |
-| [Depth-First Search](Topics/depth-first-search/) | 25 |
+| [Depth-First Search](Topics/depth-first-search/) | 26 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
+| [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 7 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
@@ -89,5 +90,5 @@ Contains topicwise list of solved problems.
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 28 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
-| [Union-Find](Topics/union-find/) | 1 |
+| [Union-Find](Topics/union-find/) | 2 |
 <!---LeetHub Summary End-->
