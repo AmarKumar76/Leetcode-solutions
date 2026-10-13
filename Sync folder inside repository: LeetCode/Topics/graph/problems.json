@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "graph",
+    "name": "Graph Theory",
+    "tagId": "24"
+  },
+  "updatedAt": "2026-10-13T05:27:41.228Z",
+  "problems": [
+    {
+      "frontendId": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "problemName": "0547-number-of-provinces",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+      "folderPath": "Sync folder inside repository: LeetCode/0547-number-of-provinces/",
+      "readmePath": "Sync folder inside repository: LeetCode/0547-number-of-provinces/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0547-number-of-provinces.java",
+          "path": "Sync folder inside repository: LeetCode/0547-number-of-provinces/0547-number-of-provinces.java",
+          "sha": "c93480fa11ad3801f267be2dec678d9a64e6ab67",
+          "lastSyncedAt": "2026-10-13T05:27:41.228Z"
+        }
+      ]
+    }
+  ]
+}
