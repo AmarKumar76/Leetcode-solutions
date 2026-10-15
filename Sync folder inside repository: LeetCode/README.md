@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 78 | 40 | 34 | 4 |
+| 79 | 40 | 35 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 7 days | 39 |
+| 1 days | 7 days | 40 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-10-10 | 2 |
 | 2026-10-11 | 2 |
 | 2026-10-13 | 2 |
+| 2026-10-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 28 | 36% |
-| Tree | 28 | 36% |
+| Binary Tree | 28 | 35% |
+| Tree | 28 | 35% |
 | Array | 26 | 33% |
-| Depth-First Search | 25 | 32% |
-| Breadth-First Search | 13 | 17% |
+| Depth-First Search | 26 | 33% |
+| Breadth-First Search | 14 | 18% |
 | Binary Search Tree | 12 | 15% |
 | Database | 10 | 13% |
 | String | 8 | 10% |
@@ -57,17 +57,18 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 28 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 13 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 14 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [counting](Topics/counting/) | 0 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 10 |
-| [Depth-First Search](Topics/depth-first-search/) | 26 |
+| [Depth-First Search](Topics/depth-first-search/) | 27 |
+| [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
-| [Graph Theory](Topics/graph/) | 1 |
+| [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 7 |
@@ -88,6 +89,7 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 9 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
+| [Topological Sort](Topics/topological-sort/) | 1 |
 | [Tree](Topics/tree/) | 28 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
 | [Union-Find](Topics/union-find/) | 2 |
