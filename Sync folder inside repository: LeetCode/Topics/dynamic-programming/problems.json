@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "dynamic-programming",
-    "name": "Dynamic Programming"
+    "name": "Dynamic Programming",
+    "tagId": "13"
   },
-  "updatedAt": "2026-09-06T04:50:34.922Z",
+  "updatedAt": "2026-10-16T15:50:09.885Z",
   "problems": [
     {
       "frontendId": "115",
@@ -63,6 +64,26 @@
           "path": "Sync folder inside repository: LeetCode/0410-split-array-largest-sum/0410-split-array-largest-sum.java",
           "sha": "b2ea1ee9e5d14538b5aaee2ac2d1db8e47ee8d55",
           "lastSyncedAt": "2026-08-16T06:54:07.765Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1334",
+      "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+      "slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+      "problemName": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+      "folderPath": "Sync folder inside repository: LeetCode/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+      "readmePath": "Sync folder inside repository: LeetCode/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java",
+          "path": "Sync folder inside repository: LeetCode/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java",
+          "sha": "9c115760387dc01ea5b48a6007253c374da64556",
+          "lastSyncedAt": "2026-10-16T15:50:09.885Z"
         }
       ]
     }
