@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 79 | 40 | 35 | 4 |
+| 80 | 40 | 36 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 7 days | 40 |
+| 2 days | 7 days | 41 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-22 | 1 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
 | 2026-09-26 | 1 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-10-11 | 2 |
 | 2026-10-13 | 2 |
 | 2026-10-15 | 1 |
+| 2026-10-16 | 1 |
 
 ## Top Tags
 
@@ -41,7 +41,7 @@ Contains topicwise list of solved problems.
 | Breadth-First Search | 14 | 18% |
 | Binary Search Tree | 12 | 15% |
 | Database | 10 | 13% |
-| String | 8 | 10% |
+| String | 9 | 11% |
 | Binary Search | 6 | 8% |
 | Hash Table | 6 | 8% |
 
@@ -66,9 +66,9 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Enumeration](Topics/enumeration/) | 2 |
-| [Graph Theory](Topics/graph/) | 2 |
+| [Graph Theory](Topics/graph/) | 3 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 7 |
@@ -86,7 +86,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 9 |
+| [String](Topics/string/) | 10 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
