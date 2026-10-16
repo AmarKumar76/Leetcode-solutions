@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-10-02T04:42:45.131Z",
+  "updatedAt": "2026-10-16T17:39:59.388Z",
   "problems": [
+    {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "problemName": "0006-zigzag-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+      "folderPath": "Sync folder inside repository: LeetCode/0006-zigzag-conversion/",
+      "readmePath": "Sync folder inside repository: LeetCode/0006-zigzag-conversion/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0006-zigzag-conversion.java",
+          "path": "Sync folder inside repository: LeetCode/0006-zigzag-conversion/0006-zigzag-conversion.java",
+          "sha": "41a2a5ca29d534933f2bfd4d818bb9e9076476a1",
+          "lastSyncedAt": "2026-10-16T17:39:59.388Z"
+        }
+      ]
+    },
     {
       "frontendId": "20",
       "title": "Valid Parentheses",
