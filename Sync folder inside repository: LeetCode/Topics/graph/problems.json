@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-10-16T15:50:09.885Z",
+  "updatedAt": "2026-10-17T04:08:05.802Z",
   "problems": [
     {
       "frontendId": "207",
@@ -24,6 +24,26 @@
           "path": "Sync folder inside repository: LeetCode/0207-course-schedule/0207-course-schedule.java",
           "sha": "65f484960e63d721427904358ebd7e686c9d4de7",
           "lastSyncedAt": "2026-10-15T16:07:07.330Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "problemName": "0210-course-schedule-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+      "folderPath": "Sync folder inside repository: LeetCode/0210-course-schedule-ii/",
+      "readmePath": "Sync folder inside repository: LeetCode/0210-course-schedule-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0210-course-schedule-ii.java",
+          "path": "Sync folder inside repository: LeetCode/0210-course-schedule-ii/0210-course-schedule-ii.java",
+          "sha": "c8fd6bd879133a184d67e1a11c88850858428dc1",
+          "lastSyncedAt": "2026-10-17T04:08:05.802Z"
         }
       ]
     },
