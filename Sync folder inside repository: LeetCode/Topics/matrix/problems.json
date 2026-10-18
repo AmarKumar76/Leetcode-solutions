@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-10T17:50:03.910Z",
+  "updatedAt": "2026-10-18T16:29:12.798Z",
   "problems": [
+    {
+      "frontendId": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "problemName": "0130-surrounded-regions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+      "folderPath": "Sync folder inside repository: LeetCode/0130-surrounded-regions/",
+      "readmePath": "Sync folder inside repository: LeetCode/0130-surrounded-regions/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0130-surrounded-regions.java",
+          "path": "Sync folder inside repository: LeetCode/0130-surrounded-regions/0130-surrounded-regions.java",
+          "sha": "dbd5d2084061eef5ee05e18b2fb3adc5170d3f24",
+          "lastSyncedAt": "2026-10-18T16:29:12.798Z"
+        }
+      ]
+    },
     {
       "frontendId": "200",
       "title": "Number of Islands",
