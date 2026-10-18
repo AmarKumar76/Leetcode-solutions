@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 81 | 40 | 37 | 4 |
+| 82 | 40 | 38 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 7 days | 42 |
+| 4 days | 7 days | 43 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-25 | 1 |
 | 2026-09-26 | 1 |
 | 2026-09-28 | 5 |
 | 2026-09-29 | 9 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-10-15 | 1 |
 | 2026-10-16 | 1 |
 | 2026-10-17 | 1 |
+| 2026-10-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 28 | 35% |
-| Tree | 28 | 35% |
-| Depth-First Search | 27 | 33% |
+| Binary Tree | 28 | 34% |
+| Depth-First Search | 28 | 34% |
+| Tree | 28 | 34% |
 | Array | 26 | 32% |
-| Breadth-First Search | 15 | 19% |
+| Breadth-First Search | 16 | 20% |
 | Binary Search Tree | 12 | 15% |
 | Database | 10 | 12% |
 | String | 9 | 11% |
@@ -57,18 +57,18 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 28 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 15 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 16 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [counting](Topics/counting/) | 0 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 10 |
-| [Depth-First Search](Topics/depth-first-search/) | 28 |
+| [Depth-First Search](Topics/depth-first-search/) | 29 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Enumeration](Topics/enumeration/) | 2 |
-| [Graph Theory](Topics/graph/) | 4 |
+| [Graph Theory](Topics/graph/) | 5 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 7 |
