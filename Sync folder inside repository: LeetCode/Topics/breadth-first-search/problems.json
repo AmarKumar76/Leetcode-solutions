@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-18T14:05:46.881Z",
+  "updatedAt": "2026-10-18T16:29:12.798Z",
   "problems": [
     {
       "frontendId": "100",
@@ -104,6 +104,26 @@
           "path": "Sync folder inside repository: LeetCode/0112-path-sum/0112-path-sum.java",
           "sha": "36f55eb787784ad2d33fe920b79c9a74b575c895",
           "lastSyncedAt": "2026-08-16T06:51:26.443Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "problemName": "0130-surrounded-regions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+      "folderPath": "Sync folder inside repository: LeetCode/0130-surrounded-regions/",
+      "readmePath": "Sync folder inside repository: LeetCode/0130-surrounded-regions/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0130-surrounded-regions.java",
+          "path": "Sync folder inside repository: LeetCode/0130-surrounded-regions/0130-surrounded-regions.java",
+          "sha": "dbd5d2084061eef5ee05e18b2fb3adc5170d3f24",
+          "lastSyncedAt": "2026-10-18T16:29:12.798Z"
         }
       ]
     },
