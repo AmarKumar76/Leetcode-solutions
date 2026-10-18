@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-17T04:08:05.802Z",
+  "updatedAt": "2026-10-18T14:05:46.881Z",
   "problems": [
     {
       "frontendId": "100",
@@ -284,6 +284,26 @@
           "path": "Sync folder inside repository: LeetCode/0783-minimum-distance-between-bst-nodes/0783-minimum-distance-between-bst-nodes.java",
           "sha": "a2e2515b782837ed6d337f2a1e73c3810c8d0dde",
           "lastSyncedAt": "2026-10-01T04:08:19.682Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "841",
+      "title": "Keys and Rooms",
+      "slug": "keys-and-rooms",
+      "problemName": "0841-keys-and-rooms",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/keys-and-rooms/",
+      "folderPath": "Sync folder inside repository: LeetCode/0841-keys-and-rooms/",
+      "readmePath": "Sync folder inside repository: LeetCode/0841-keys-and-rooms/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0841-keys-and-rooms.java",
+          "path": "Sync folder inside repository: LeetCode/0841-keys-and-rooms/0841-keys-and-rooms.java",
+          "sha": "a45f5388062278f7a12f02c0673da59d47704279",
+          "lastSyncedAt": "2026-10-18T14:05:46.881Z"
         }
       ]
     },
