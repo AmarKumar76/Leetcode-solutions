@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T16:29:12.798Z",
+  "updatedAt": "2026-10-18T16:51:15.751Z",
   "problems": [
     {
       "frontendId": "108",
@@ -164,6 +164,26 @@
           "path": "Sync folder inside repository: LeetCode/0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.java",
           "sha": "256db89a6beabb2995979e9573e62b30b599c298",
           "lastSyncedAt": "2026-09-15T17:04:32.564Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "695",
+      "title": "Max Area of Island",
+      "slug": "max-area-of-island",
+      "problemName": "0695-max-area-of-island",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-area-of-island/",
+      "folderPath": "Sync folder inside repository: LeetCode/0695-max-area-of-island/",
+      "readmePath": "Sync folder inside repository: LeetCode/0695-max-area-of-island/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0695-max-area-of-island.java",
+          "path": "Sync folder inside repository: LeetCode/0695-max-area-of-island/0695-max-area-of-island.java",
+          "sha": "62d81d45fbf6ae2394124dbfd7e5690586d23ff7",
+          "lastSyncedAt": "2026-10-18T16:51:15.751Z"
         }
       ]
     },
