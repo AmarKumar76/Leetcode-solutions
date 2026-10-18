@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T18:33:37.928Z",
+  "updatedAt": "2026-10-18T16:29:12.798Z",
   "problems": [
     {
       "frontendId": "108",
@@ -24,6 +24,26 @@
           "path": "Sync folder inside repository: LeetCode/0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.java",
           "sha": "815d9295e524955b81c7304150254dc209e0594b",
           "lastSyncedAt": "2026-09-30T05:00:43.234Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "problemName": "0130-surrounded-regions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+      "folderPath": "Sync folder inside repository: LeetCode/0130-surrounded-regions/",
+      "readmePath": "Sync folder inside repository: LeetCode/0130-surrounded-regions/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0130-surrounded-regions.java",
+          "path": "Sync folder inside repository: LeetCode/0130-surrounded-regions/0130-surrounded-regions.java",
+          "sha": "dbd5d2084061eef5ee05e18b2fb3adc5170d3f24",
+          "lastSyncedAt": "2026-10-18T16:29:12.798Z"
         }
       ]
     },
