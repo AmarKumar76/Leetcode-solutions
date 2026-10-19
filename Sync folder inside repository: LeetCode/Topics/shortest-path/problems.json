@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "shortest-path",
+    "name": "Shortest Path",
+    "tagId": "61076"
+  },
+  "updatedAt": "2026-10-19T03:54:44.219Z",
+  "problems": [
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "Sync folder inside repository: LeetCode/0743-network-delay-time/",
+      "readmePath": "Sync folder inside repository: LeetCode/0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0743-network-delay-time.java",
+          "path": "Sync folder inside repository: LeetCode/0743-network-delay-time/0743-network-delay-time.java",
+          "sha": "5e0312969170c25a8ea692b32b03faa995e51c1f",
+          "lastSyncedAt": "2026-10-19T03:54:44.219Z"
+        }
+      ]
+    }
+  ]
+}
