@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T12:35:26.555Z",
+  "updatedAt": "2026-10-19T02:11:55.323Z",
   "problems": [
     {
       "frontendId": "148",
@@ -124,6 +124,26 @@
           "path": "Sync folder inside repository: LeetCode/1552-magnetic-force-between-two-balls/1552-magnetic-force-between-two-balls.java",
           "sha": "ce1495599e2dae63c6a9039557ea162c53385133",
           "lastSyncedAt": "2026-08-16T06:52:14.299Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "Sync folder inside repository: LeetCode/2089-find-target-indices-after-sorting-array/",
+      "readmePath": "Sync folder inside repository: LeetCode/2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2089-find-target-indices-after-sorting-array.java",
+          "path": "Sync folder inside repository: LeetCode/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.java",
+          "sha": "9d6070e84abb9bad6c83730c1cfdf2ff46ebf2e1",
+          "lastSyncedAt": "2026-10-19T02:11:55.323Z"
         }
       ]
     }
