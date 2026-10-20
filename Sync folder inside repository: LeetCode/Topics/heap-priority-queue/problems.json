@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-19T03:54:44.219Z",
+  "updatedAt": "2026-10-20T13:16:45.253Z",
   "problems": [
     {
       "frontendId": "215",
@@ -84,6 +84,26 @@
           "path": "Sync folder inside repository: LeetCode/1046-last-stone-weight/1046-last-stone-weight.java",
           "sha": "b74ace629dfcbf15a087fcf72454a1037b569ee6",
           "lastSyncedAt": "2026-10-12T18:33:37.928Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "problemName": "1631-path-with-minimum-effort",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "folderPath": "Sync folder inside repository: LeetCode/1631-path-with-minimum-effort/",
+      "readmePath": "Sync folder inside repository: LeetCode/1631-path-with-minimum-effort/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1631-path-with-minimum-effort.java",
+          "path": "Sync folder inside repository: LeetCode/1631-path-with-minimum-effort/1631-path-with-minimum-effort.java",
+          "sha": "7ad8613d2f33b984e76b9b2d374a253167adfbce",
+          "lastSyncedAt": "2026-10-20T13:16:45.253Z"
         }
       ]
     }
