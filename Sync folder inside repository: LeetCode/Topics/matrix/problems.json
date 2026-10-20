@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-18T16:51:15.751Z",
+  "updatedAt": "2026-10-20T13:16:45.253Z",
   "problems": [
     {
       "frontendId": "130",
@@ -124,6 +124,26 @@
           "path": "Sync folder inside repository: LeetCode/1329-sort-the-matrix-diagonally/1329-sort-the-matrix-diagonally.java",
           "sha": "9869b486be055f935228013c1fcccb6f1de016b3",
           "lastSyncedAt": "2026-08-19T18:53:29.665Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "problemName": "1631-path-with-minimum-effort",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "folderPath": "Sync folder inside repository: LeetCode/1631-path-with-minimum-effort/",
+      "readmePath": "Sync folder inside repository: LeetCode/1631-path-with-minimum-effort/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1631-path-with-minimum-effort.java",
+          "path": "Sync folder inside repository: LeetCode/1631-path-with-minimum-effort/1631-path-with-minimum-effort.java",
+          "sha": "7ad8613d2f33b984e76b9b2d374a253167adfbce",
+          "lastSyncedAt": "2026-10-20T13:16:45.253Z"
         }
       ]
     },
