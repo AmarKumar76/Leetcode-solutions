@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-20T13:16:45.253Z",
+  "updatedAt": "2026-10-21T12:58:11.393Z",
   "problems": [
     {
       "frontendId": "94",
@@ -584,6 +584,26 @@
           "path": "Sync folder inside repository: LeetCode/0783-minimum-distance-between-bst-nodes/0783-minimum-distance-between-bst-nodes.java",
           "sha": "a2e2515b782837ed6d337f2a1e73c3810c8d0dde",
           "lastSyncedAt": "2026-10-01T04:08:19.682Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "787",
+      "title": "Cheapest Flights Within K Stops",
+      "slug": "cheapest-flights-within-k-stops",
+      "problemName": "0787-cheapest-flights-within-k-stops",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+      "folderPath": "Sync folder inside repository: LeetCode/0787-cheapest-flights-within-k-stops/",
+      "readmePath": "Sync folder inside repository: LeetCode/0787-cheapest-flights-within-k-stops/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0787-cheapest-flights-within-k-stops.java",
+          "path": "Sync folder inside repository: LeetCode/0787-cheapest-flights-within-k-stops/0787-cheapest-flights-within-k-stops.java",
+          "sha": "62f43a67f101d2fe195611846a9e5274d94fc3fb",
+          "lastSyncedAt": "2026-10-21T12:58:11.393Z"
         }
       ]
     },
