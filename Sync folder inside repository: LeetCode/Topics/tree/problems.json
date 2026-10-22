@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "tree",
-    "name": "Tree"
+    "name": "Tree",
+    "tagId": "20"
   },
-  "updatedAt": "2026-10-03T03:13:04.304Z",
+  "updatedAt": "2026-10-22T14:58:50.280Z",
   "problems": [
     {
       "frontendId": "94",
@@ -143,6 +144,26 @@
           "path": "Sync folder inside repository: LeetCode/0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.java",
           "sha": "4c3c60e3513902248fad5a9d9658d55fc3dbbd6e",
           "lastSyncedAt": "2026-10-03T03:13:04.304Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "problemName": "0110-balanced-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+      "folderPath": "Sync folder inside repository: LeetCode/0110-balanced-binary-tree/",
+      "readmePath": "Sync folder inside repository: LeetCode/0110-balanced-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0110-balanced-binary-tree.java",
+          "path": "Sync folder inside repository: LeetCode/0110-balanced-binary-tree/0110-balanced-binary-tree.java",
+          "sha": "b645019cde1ef073c63980e8dd88a884452a8ce6",
+          "lastSyncedAt": "2026-10-22T14:58:50.280Z"
         }
       ]
     },
