@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-10-20T13:16:45.253Z",
+  "updatedAt": "2026-10-24T15:13:40.416Z",
   "problems": [
     {
       "frontendId": "130",
@@ -84,6 +84,26 @@
           "path": "Sync folder inside repository: LeetCode/0695-max-area-of-island/0695-max-area-of-island.java",
           "sha": "62d81d45fbf6ae2394124dbfd7e5690586d23ff7",
           "lastSyncedAt": "2026-10-18T16:51:15.751Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "721",
+      "title": "Accounts Merge",
+      "slug": "accounts-merge",
+      "problemName": "0721-accounts-merge",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/accounts-merge/",
+      "folderPath": "Sync folder inside repository: LeetCode/0721-accounts-merge/",
+      "readmePath": "Sync folder inside repository: LeetCode/0721-accounts-merge/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0721-accounts-merge.java",
+          "path": "Sync folder inside repository: LeetCode/0721-accounts-merge/0721-accounts-merge.java",
+          "sha": "3c2da574e5bce6773d07bd454200b0f4de00e086",
+          "lastSyncedAt": "2026-10-24T15:13:40.416Z"
         }
       ]
     },
