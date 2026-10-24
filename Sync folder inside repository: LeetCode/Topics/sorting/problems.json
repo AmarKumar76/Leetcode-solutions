@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-19T02:11:55.323Z",
+  "updatedAt": "2026-10-24T15:13:40.416Z",
   "problems": [
     {
       "frontendId": "148",
@@ -44,6 +44,26 @@
           "path": "Sync folder inside repository: LeetCode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "812ec1002f7341b3b2fc803c1a77da301d803e42",
           "lastSyncedAt": "2026-10-11T12:35:26.555Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "721",
+      "title": "Accounts Merge",
+      "slug": "accounts-merge",
+      "problemName": "0721-accounts-merge",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/accounts-merge/",
+      "folderPath": "Sync folder inside repository: LeetCode/0721-accounts-merge/",
+      "readmePath": "Sync folder inside repository: LeetCode/0721-accounts-merge/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0721-accounts-merge.java",
+          "path": "Sync folder inside repository: LeetCode/0721-accounts-merge/0721-accounts-merge.java",
+          "sha": "3c2da574e5bce6773d07bd454200b0f4de00e086",
+          "lastSyncedAt": "2026-10-24T15:13:40.416Z"
         }
       ]
     },
