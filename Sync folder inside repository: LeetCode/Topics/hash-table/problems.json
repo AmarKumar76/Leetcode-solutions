@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "hash-table",
-    "name": "Hash Table"
+    "name": "Hash Table",
+    "tagId": "6"
   },
-  "updatedAt": "2026-09-26T17:40:37.568Z",
+  "updatedAt": "2026-10-24T15:13:40.416Z",
   "problems": [
     {
       "frontendId": "454",
@@ -23,6 +24,26 @@
           "path": "Sync folder inside repository: LeetCode/0454-4sum-ii/0454-4sum-ii.java",
           "sha": "5139655e4f95baa337b4c445c91d316f24609355",
           "lastSyncedAt": "2026-09-01T07:22:48.799Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "721",
+      "title": "Accounts Merge",
+      "slug": "accounts-merge",
+      "problemName": "0721-accounts-merge",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/accounts-merge/",
+      "folderPath": "Sync folder inside repository: LeetCode/0721-accounts-merge/",
+      "readmePath": "Sync folder inside repository: LeetCode/0721-accounts-merge/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0721-accounts-merge.java",
+          "path": "Sync folder inside repository: LeetCode/0721-accounts-merge/0721-accounts-merge.java",
+          "sha": "3c2da574e5bce6773d07bd454200b0f4de00e086",
+          "lastSyncedAt": "2026-10-24T15:13:40.416Z"
         }
       ]
     },
