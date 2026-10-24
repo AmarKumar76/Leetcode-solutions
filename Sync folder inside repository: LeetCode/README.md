@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 89 | 42 | 43 | 4 |
+| 90 | 42 | 44 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 8 days | 47 |
+| 1 days | 8 days | 48 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-01 | 5 |
 | 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
 | 2026-10-10 | 2 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-20 | 1 |
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
+| 2026-10-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Depth-First Search | 34 | 38% |
-| Array | 30 | 34% |
-| Binary Tree | 29 | 33% |
-| Tree | 29 | 33% |
-| Breadth-First Search | 21 | 24% |
+| Depth-First Search | 35 | 39% |
+| Array | 31 | 34% |
+| Binary Tree | 29 | 32% |
+| Tree | 29 | 32% |
+| Breadth-First Search | 22 | 24% |
 | Binary Search Tree | 12 | 13% |
 | Database | 10 | 11% |
-| String | 9 | 10% |
+| String | 10 | 11% |
 | Binary Search | 8 | 9% |
 | Matrix | 8 | 9% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 32 |
+| [Array](Topics/array/) | 33 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 8 |
@@ -57,12 +57,12 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 29 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 21 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 22 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [counting](Topics/counting/) | 0 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 10 |
-| [Depth-First Search](Topics/depth-first-search/) | 35 |
+| [Depth-First Search](Topics/depth-first-search/) | 36 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
@@ -72,7 +72,7 @@ Contains topicwise list of solved problems.
 | [Graph Theory](Topics/graph/) | 7 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
@@ -86,13 +86,13 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 7 |
+| [Sorting](Topics/sorting/) | 8 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 10 |
+| [String](Topics/string/) | 11 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 29 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
-| [Union-Find](Topics/union-find/) | 5 |
+| [Union-Find](Topics/union-find/) | 6 |
 <!---LeetHub Summary End-->
