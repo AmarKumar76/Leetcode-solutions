@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "bit-manipulation",
-    "name": "Bit Manipulation"
+    "name": "Bit Manipulation",
+    "tagId": "19"
   },
-  "updatedAt": "2026-09-23T20:12:32.874Z",
+  "updatedAt": "2026-10-26T17:43:11.058Z",
   "problems": [
     {
       "frontendId": "67",
@@ -23,6 +24,26 @@
           "path": "Sync folder inside repository: LeetCode/0067-add-binary/0067-add-binary.java",
           "sha": "c41ca0fc850fd258cbc7d7691c60fa6189bebf75",
           "lastSyncedAt": "2026-09-23T20:12:32.874Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "Sync folder inside repository: LeetCode/0231-power-of-two/",
+      "readmePath": "Sync folder inside repository: LeetCode/0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0231-power-of-two.java",
+          "path": "Sync folder inside repository: LeetCode/0231-power-of-two/0231-power-of-two.java",
+          "sha": "848f11fcec2bd0b618ffb1cc209f9c3d81c8a530",
+          "lastSyncedAt": "2026-10-26T17:43:11.058Z"
         }
       ]
     }
