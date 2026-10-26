@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 91 | 42 | 45 | 4 |
+| 92 | 43 | 45 | 4 |
 
 ## Activity
 
@@ -28,13 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-24 | 1 |
-| 2026-10-26 | 1 |
+| 2026-10-26 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Depth-First Search | 36 | 40% |
+| Depth-First Search | 36 | 39% |
 | Array | 32 | 35% |
 | Binary Tree | 29 | 32% |
 | Tree | 29 | 32% |
@@ -55,7 +55,7 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 13 |
 | [Binary Tree](Topics/binary-tree/) | 29 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 23 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
@@ -77,12 +77,13 @@ Contains topicwise list of solved problems.
 | [Interactive](Topics/interactive/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 9 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
+| [Recursion](Topics/recursion/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
