@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 90 | 42 | 44 | 4 |
+| 91 | 42 | 45 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 8 days | 48 |
+| 1 days | 8 days | 49 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
 | 2026-10-10 | 2 |
 | 2026-10-11 | 2 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-24 | 1 |
+| 2026-10-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Depth-First Search | 35 | 39% |
-| Array | 31 | 34% |
+| Depth-First Search | 36 | 40% |
+| Array | 32 | 35% |
 | Binary Tree | 29 | 32% |
 | Tree | 29 | 32% |
-| Breadth-First Search | 22 | 24% |
+| Breadth-First Search | 23 | 25% |
 | Binary Search Tree | 12 | 13% |
 | Database | 10 | 11% |
 | String | 10 | 11% |
+| Matrix | 9 | 10% |
 | Binary Search | 8 | 9% |
-| Matrix | 8 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 33 |
+| [Array](Topics/array/) | 34 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 8 |
@@ -57,12 +57,12 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 29 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 22 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 23 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [counting](Topics/counting/) | 0 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 10 |
-| [Depth-First Search](Topics/depth-first-search/) | 36 |
+| [Depth-First Search](Topics/depth-first-search/) | 37 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 6 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Math](Topics/math/) | 6 |
-| [Matrix](Topics/matrix/) | 8 |
+| [Matrix](Topics/matrix/) | 9 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Quickselect](Topics/quickselect/) | 1 |
@@ -94,5 +94,5 @@ Contains topicwise list of solved problems.
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 29 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
-| [Union-Find](Topics/union-find/) | 6 |
+| [Union-Find](Topics/union-find/) | 7 |
 <!---LeetHub Summary End-->
