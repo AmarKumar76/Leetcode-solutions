@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T15:13:40.416Z",
+  "updatedAt": "2026-10-26T14:32:00.072Z",
   "problems": [
     {
       "frontendId": "108",
@@ -564,6 +564,26 @@
           "path": "Sync folder inside repository: LeetCode/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "b38279c5d970b1ab88127a19ae96bbe960c86a11",
           "lastSyncedAt": "2026-09-24T17:49:36.696Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3619",
+      "title": "Count Islands With Total Value Divisible by K",
+      "slug": "count-islands-with-total-value-divisible-by-k",
+      "problemName": "3619-count-islands-with-total-value-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/",
+      "folderPath": "Sync folder inside repository: LeetCode/3619-count-islands-with-total-value-divisible-by-k/",
+      "readmePath": "Sync folder inside repository: LeetCode/3619-count-islands-with-total-value-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3619-count-islands-with-total-value-divisible-by-k.java",
+          "path": "Sync folder inside repository: LeetCode/3619-count-islands-with-total-value-divisible-by-k/3619-count-islands-with-total-value-divisible-by-k.java",
+          "sha": "d146070bb67a0857da4aeb2a77e3648d2890d00d",
+          "lastSyncedAt": "2026-10-26T14:32:00.072Z"
         }
       ]
     },
