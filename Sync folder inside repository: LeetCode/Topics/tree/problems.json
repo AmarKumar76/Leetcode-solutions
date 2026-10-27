@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-22T17:18:17.241Z",
+  "updatedAt": "2026-10-27T18:49:27.304Z",
   "problems": [
     {
       "frontendId": "94",
@@ -344,6 +344,26 @@
           "path": "Sync folder inside repository: LeetCode/0257-binary-tree-paths/0257-binary-tree-paths.java",
           "sha": "2e24da569c6948e087f20c5c6d0a11de253b2959",
           "lastSyncedAt": "2026-10-02T04:42:45.131Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "404",
+      "title": "Sum of Left Leaves",
+      "slug": "sum-of-left-leaves",
+      "problemName": "0404-sum-of-left-leaves",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-left-leaves/",
+      "folderPath": "Sync folder inside repository: LeetCode/0404-sum-of-left-leaves/",
+      "readmePath": "Sync folder inside repository: LeetCode/0404-sum-of-left-leaves/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0404-sum-of-left-leaves.java",
+          "path": "Sync folder inside repository: LeetCode/0404-sum-of-left-leaves/0404-sum-of-left-leaves.java",
+          "sha": "704a4ec63ac8e3a679592cbe4b245b3fc30b08ed",
+          "lastSyncedAt": "2026-10-27T18:49:27.304Z"
         }
       ]
     },
