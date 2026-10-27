@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 92 | 43 | 45 | 4 |
+| 93 | 44 | 45 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 8 days | 49 |
+| 1 days | 8 days | 50 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-03 | 1 |
 | 2026-10-10 | 2 |
 | 2026-10-11 | 2 |
 | 2026-10-13 | 2 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-10-22 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-26 | 2 |
+| 2026-10-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Depth-First Search | 36 | 39% |
-| Array | 32 | 35% |
-| Binary Tree | 29 | 32% |
-| Tree | 29 | 32% |
-| Breadth-First Search | 23 | 25% |
+| Depth-First Search | 37 | 40% |
+| Array | 32 | 34% |
+| Binary Tree | 30 | 32% |
+| Tree | 30 | 32% |
+| Breadth-First Search | 24 | 26% |
 | Binary Search Tree | 12 | 13% |
 | Database | 10 | 11% |
 | String | 10 | 11% |
@@ -54,15 +54,15 @@ Contains topicwise list of solved problems.
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 13 |
-| [Binary Tree](Topics/binary-tree/) | 29 |
+| [Binary Tree](Topics/binary-tree/) | 30 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 23 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 24 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [counting](Topics/counting/) | 0 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 10 |
-| [Depth-First Search](Topics/depth-first-search/) | 37 |
+| [Depth-First Search](Topics/depth-first-search/) | 38 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
@@ -93,7 +93,7 @@ Contains topicwise list of solved problems.
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Tree](Topics/tree/) | 29 |
+| [Tree](Topics/tree/) | 30 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
 | [Union-Find](Topics/union-find/) | 7 |
 <!---LeetHub Summary End-->
