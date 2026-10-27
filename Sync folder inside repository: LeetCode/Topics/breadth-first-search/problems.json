@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-26T14:32:00.072Z",
+  "updatedAt": "2026-10-27T18:49:27.304Z",
   "problems": [
     {
       "frontendId": "100",
@@ -204,6 +204,26 @@
           "path": "Sync folder inside repository: LeetCode/0210-course-schedule-ii/0210-course-schedule-ii.java",
           "sha": "c8fd6bd879133a184d67e1a11c88850858428dc1",
           "lastSyncedAt": "2026-10-17T04:08:05.802Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "404",
+      "title": "Sum of Left Leaves",
+      "slug": "sum-of-left-leaves",
+      "problemName": "0404-sum-of-left-leaves",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-left-leaves/",
+      "folderPath": "Sync folder inside repository: LeetCode/0404-sum-of-left-leaves/",
+      "readmePath": "Sync folder inside repository: LeetCode/0404-sum-of-left-leaves/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0404-sum-of-left-leaves.java",
+          "path": "Sync folder inside repository: LeetCode/0404-sum-of-left-leaves/0404-sum-of-left-leaves.java",
+          "sha": "704a4ec63ac8e3a679592cbe4b245b3fc30b08ed",
+          "lastSyncedAt": "2026-10-27T18:49:27.304Z"
         }
       ]
     },
