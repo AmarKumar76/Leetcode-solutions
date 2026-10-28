@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-26T17:43:11.058Z",
+  "updatedAt": "2026-10-28T08:06:18.585Z",
   "problems": [
     {
       "frontendId": "67",
@@ -24,6 +24,26 @@
           "path": "Sync folder inside repository: LeetCode/0067-add-binary/0067-add-binary.java",
           "sha": "c41ca0fc850fd258cbc7d7691c60fa6189bebf75",
           "lastSyncedAt": "2026-09-23T20:12:32.874Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "Sync folder inside repository: LeetCode/0070-climbing-stairs/",
+      "readmePath": "Sync folder inside repository: LeetCode/0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0070-climbing-stairs.java",
+          "path": "Sync folder inside repository: LeetCode/0070-climbing-stairs/0070-climbing-stairs.java",
+          "sha": "0568e8ec0b28b20dd6c87ff72aaeec57614649eb",
+          "lastSyncedAt": "2026-10-28T08:06:18.585Z"
         }
       ]
     },
