@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 93 | 44 | 45 | 4 |
+| 94 | 45 | 45 | 4 |
 
 ## Activity
 
@@ -28,13 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-10-22 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-26 | 2 |
-| 2026-10-28 | 1 |
+| 2026-10-28 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Depth-First Search | 37 | 40% |
+| Depth-First Search | 37 | 39% |
 | Array | 32 | 34% |
 | Binary Tree | 30 | 32% |
 | Tree | 30 | 32% |
@@ -67,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Graph Theory](Topics/graph/) | 7 |
 | [Greedy](Topics/greedy/) | 1 |
@@ -77,8 +77,9 @@ Contains topicwise list of solved problems.
 | [Interactive](Topics/interactive/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 9 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Quickselect](Topics/quickselect/) | 1 |
