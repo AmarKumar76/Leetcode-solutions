@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T14:32:00.072Z",
+  "updatedAt": "2026-10-30T18:10:33.125Z",
   "problems": [
+    {
+      "frontendId": "73",
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "problemName": "0073-set-matrix-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "folderPath": "Sync folder inside repository: LeetCode/0073-set-matrix-zeroes/",
+      "readmePath": "Sync folder inside repository: LeetCode/0073-set-matrix-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0073-set-matrix-zeroes.java",
+          "path": "Sync folder inside repository: LeetCode/0073-set-matrix-zeroes/0073-set-matrix-zeroes.java",
+          "sha": "5dea1e5452f7e08c10230ac94a0b4ed10ff62d6a",
+          "lastSyncedAt": "2026-10-30T18:10:33.125Z"
+        }
+      ]
+    },
     {
       "frontendId": "108",
       "title": "Convert Sorted Array to Binary Search Tree",
