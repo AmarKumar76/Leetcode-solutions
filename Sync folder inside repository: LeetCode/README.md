@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 95 | 45 | 46 | 4 |
+| 96 | 46 | 46 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 8 days | 51 |
+| 2 days | 8 days | 52 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-11 | 2 |
 | 2026-10-13 | 2 |
 | 2026-10-15 | 1 |
 | 2026-10-16 | 1 |
@@ -29,20 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-10-26 | 2 |
 | 2026-10-28 | 2 |
 | 2026-10-30 | 1 |
+| 2026-10-31 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Depth-First Search | 37 | 39% |
-| Array | 33 | 35% |
-| Binary Tree | 30 | 32% |
-| Tree | 30 | 32% |
+| Array | 33 | 34% |
+| Binary Tree | 30 | 31% |
+| Tree | 30 | 31% |
 | Breadth-First Search | 24 | 25% |
 | Binary Search Tree | 12 | 13% |
-| Database | 10 | 11% |
-| Matrix | 10 | 11% |
-| String | 10 | 11% |
+| String | 11 | 11% |
+| Database | 10 | 10% |
+| Matrix | 10 | 10% |
 | Binary Search | 8 | 8% |
 
 ## Topics
@@ -89,8 +89,8 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 8 |
-| [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 11 |
+| [Stack](Topics/stack/) | 4 |
+| [String](Topics/string/) | 12 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
