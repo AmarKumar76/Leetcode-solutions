@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "stack",
-    "name": "Stack"
+    "name": "Stack",
+    "tagId": "15"
   },
-  "updatedAt": "2026-10-01T04:10:25.669Z",
+  "updatedAt": "2026-10-31T15:46:22.769Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +64,26 @@
           "path": "Sync folder inside repository: LeetCode/0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.java",
           "sha": "ba2270912e8912d4c90e8eb23e96e735a31c6eeb",
           "lastSyncedAt": "2026-09-28T05:39:10.612Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1544",
+      "title": "Make The String Great",
+      "slug": "make-the-string-great",
+      "problemName": "1544-make-the-string-great",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/make-the-string-great/",
+      "folderPath": "Sync folder inside repository: LeetCode/1544-make-the-string-great/",
+      "readmePath": "Sync folder inside repository: LeetCode/1544-make-the-string-great/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1544-make-the-string-great.java",
+          "path": "Sync folder inside repository: LeetCode/1544-make-the-string-great/1544-make-the-string-great.java",
+          "sha": "f90ab9b2ccd8c3ddd3f9dd9d5eca9d19376d9ee9",
+          "lastSyncedAt": "2026-10-31T15:46:22.769Z"
         }
       ]
     }
