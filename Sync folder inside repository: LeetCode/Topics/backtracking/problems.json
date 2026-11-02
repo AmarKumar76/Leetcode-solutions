@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "backtracking",
-    "name": "Backtracking"
+    "name": "Backtracking",
+    "tagId": "14"
   },
-  "updatedAt": "2026-10-02T04:42:45.131Z",
+  "updatedAt": "2026-11-02T17:56:03.260Z",
   "problems": [
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "Sync folder inside repository: LeetCode/0078-subsets/",
+      "readmePath": "Sync folder inside repository: LeetCode/0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0078-subsets.java",
+          "path": "Sync folder inside repository: LeetCode/0078-subsets/0078-subsets.java",
+          "sha": "f48d38718c2c9abe6cc1ea62c8d4c1c633059b58",
+          "lastSyncedAt": "2026-11-02T17:56:03.260Z"
+        }
+      ]
+    },
     {
       "frontendId": "257",
       "title": "Binary Tree Paths",
