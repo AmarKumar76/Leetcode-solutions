@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 97 | 47 | 46 | 4 |
+| 98 | 48 | 46 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 8 days | 53 |
+| 1 days | 8 days | 54 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-15 | 1 |
 | 2026-10-16 | 1 |
 | 2026-10-17 | 1 |
 | 2026-10-18 | 3 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-10-30 | 1 |
 | 2026-10-31 | 1 |
 | 2026-11-01 | 1 |
+| 2026-11-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Depth-First Search | 37 | 38% |
-| Array | 33 | 34% |
+| Array | 34 | 35% |
 | Binary Tree | 30 | 31% |
 | Tree | 30 | 31% |
-| Breadth-First Search | 24 | 25% |
+| Breadth-First Search | 24 | 24% |
 | Binary Search Tree | 12 | 12% |
 | String | 11 | 11% |
 | Database | 10 | 10% |
 | Matrix | 10 | 10% |
-| Binary Search | 8 | 8% |
+| Math | 9 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 35 |
-| [Backtracking](Topics/backtracking/) | 1 |
+| [Array](Topics/array/) | 37 |
+| [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 13 |
@@ -77,7 +77,7 @@ Contains topicwise list of solved problems.
 | [Interactive](Topics/interactive/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
-| [Math](Topics/math/) | 8 |
+| [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 10 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
