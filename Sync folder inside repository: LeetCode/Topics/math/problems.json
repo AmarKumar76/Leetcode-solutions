@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-28T08:06:18.585Z",
+  "updatedAt": "2026-11-03T10:55:50.207Z",
   "problems": [
     {
       "frontendId": "67",
@@ -124,6 +124,26 @@
           "path": "Sync folder inside repository: LeetCode/3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.java",
           "sha": "2e3fdab37bc48118782595a47ede4ad0e2be7732",
           "lastSyncedAt": "2026-08-16T06:53:19.482Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "Sync folder inside repository: LeetCode/3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "Sync folder inside repository: LeetCode/3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.java",
+          "path": "Sync folder inside repository: LeetCode/3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.java",
+          "sha": "041db7a6a7bae3ade6b554914dea81073f3d37d4",
+          "lastSyncedAt": "2026-11-03T10:55:50.207Z"
         }
       ]
     },
