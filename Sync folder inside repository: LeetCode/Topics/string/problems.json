@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-31T15:46:22.769Z",
+  "updatedAt": "2026-11-05T14:02:25.927Z",
   "problems": [
     {
       "frontendId": "6",
@@ -164,6 +164,26 @@
           "path": "Sync folder inside repository: LeetCode/1544-make-the-string-great/1544-make-the-string-great.java",
           "sha": "f90ab9b2ccd8c3ddd3f9dd9d5eca9d19376d9ee9",
           "lastSyncedAt": "2026-10-31T15:46:22.769Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1961",
+      "title": "Check If String Is a Prefix of Array",
+      "slug": "check-if-string-is-a-prefix-of-array",
+      "problemName": "1961-check-if-string-is-a-prefix-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/",
+      "folderPath": "Sync folder inside repository: LeetCode/1961-check-if-string-is-a-prefix-of-array/",
+      "readmePath": "Sync folder inside repository: LeetCode/1961-check-if-string-is-a-prefix-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1961-check-if-string-is-a-prefix-of-array.java",
+          "path": "Sync folder inside repository: LeetCode/1961-check-if-string-is-a-prefix-of-array/1961-check-if-string-is-a-prefix-of-array.java",
+          "sha": "964ed81b3b9aeea8747f709934b365480f9731cf",
+          "lastSyncedAt": "2026-11-05T14:02:25.927Z"
         }
       ]
     },
