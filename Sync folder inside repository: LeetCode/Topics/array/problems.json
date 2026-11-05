@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T12:41:29.810Z",
+  "updatedAt": "2026-11-05T14:02:25.927Z",
   "problems": [
     {
       "frontendId": "73",
@@ -504,6 +504,26 @@
           "path": "Sync folder inside repository: LeetCode/1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.java",
           "sha": "d1d3691433a7a14fc25cd140ef5678aff4c03040",
           "lastSyncedAt": "2026-08-16T06:53:33.561Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1961",
+      "title": "Check If String Is a Prefix of Array",
+      "slug": "check-if-string-is-a-prefix-of-array",
+      "problemName": "1961-check-if-string-is-a-prefix-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/",
+      "folderPath": "Sync folder inside repository: LeetCode/1961-check-if-string-is-a-prefix-of-array/",
+      "readmePath": "Sync folder inside repository: LeetCode/1961-check-if-string-is-a-prefix-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1961-check-if-string-is-a-prefix-of-array.java",
+          "path": "Sync folder inside repository: LeetCode/1961-check-if-string-is-a-prefix-of-array/1961-check-if-string-is-a-prefix-of-array.java",
+          "sha": "964ed81b3b9aeea8747f709934b365480f9731cf",
+          "lastSyncedAt": "2026-11-05T14:02:25.927Z"
         }
       ]
     },
