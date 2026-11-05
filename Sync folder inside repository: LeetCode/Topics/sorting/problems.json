@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-24T15:13:40.416Z",
+  "updatedAt": "2026-11-05T12:41:29.810Z",
   "problems": [
     {
       "frontendId": "148",
@@ -123,7 +123,7 @@
           "filename": "1385-find-the-distance-value-between-two-arrays.java",
           "path": "Sync folder inside repository: LeetCode/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "c17701667699b93513f712b6fad8fb97a268dbd9",
-          "lastSyncedAt": "2026-09-09T03:30:59.471Z"
+          "lastSyncedAt": "2026-11-05T12:41:29.810Z"
         }
       ]
     },
