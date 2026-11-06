@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 99 | 49 | 46 | 4 |
+| 100 | 49 | 47 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 8 days | 55 |
+| 2 days | 8 days | 56 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-17 | 1 |
 | 2026-10-18 | 3 |
 | 2026-10-19 | 2 |
 | 2026-10-20 | 1 |
@@ -29,13 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-11-01 | 1 |
 | 2026-11-03 | 1 |
 | 2026-11-05 | 1 |
+| 2026-11-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Depth-First Search | 37 | 37% |
-| Array | 35 | 35% |
+| Array | 36 | 36% |
 | Binary Tree | 30 | 30% |
 | Tree | 30 | 30% |
 | Breadth-First Search | 24 | 24% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 38 |
+| [Array](Topics/array/) | 39 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 8 |
@@ -86,10 +86,10 @@ Contains topicwise list of solved problems.
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 2 |
-| [Simulation](Topics/simulation/) | 2 |
+| [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 8 |
-| [Stack](Topics/stack/) | 4 |
+| [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 13 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
