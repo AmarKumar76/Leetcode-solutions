@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "simulation",
-    "name": "Simulation"
+    "name": "Simulation",
+    "tagId": "61055"
   },
-  "updatedAt": "2026-09-23T20:12:32.874Z",
+  "updatedAt": "2026-11-06T14:29:32.745Z",
   "problems": [
     {
       "frontendId": "67",
@@ -23,6 +24,26 @@
           "path": "Sync folder inside repository: LeetCode/0067-add-binary/0067-add-binary.java",
           "sha": "c41ca0fc850fd258cbc7d7691c60fa6189bebf75",
           "lastSyncedAt": "2026-09-23T20:12:32.874Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1441",
+      "title": "Build an Array With Stack Operations",
+      "slug": "build-an-array-with-stack-operations",
+      "problemName": "1441-build-an-array-with-stack-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/build-an-array-with-stack-operations/",
+      "folderPath": "Sync folder inside repository: LeetCode/1441-build-an-array-with-stack-operations/",
+      "readmePath": "Sync folder inside repository: LeetCode/1441-build-an-array-with-stack-operations/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1441-build-an-array-with-stack-operations.java",
+          "path": "Sync folder inside repository: LeetCode/1441-build-an-array-with-stack-operations/1441-build-an-array-with-stack-operations.java",
+          "sha": "9a8b9ec624ec6ba5133a9b38d2f75a5489763d9d",
+          "lastSyncedAt": "2026-11-06T14:29:32.745Z"
         }
       ]
     },
