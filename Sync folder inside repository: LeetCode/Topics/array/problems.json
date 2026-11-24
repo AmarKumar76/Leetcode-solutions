@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T14:29:32.745Z",
+  "updatedAt": "2026-11-24T10:28:28.216Z",
   "problems": [
     {
       "frontendId": "73",
@@ -524,6 +524,26 @@
           "path": "Sync folder inside repository: LeetCode/1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.java",
           "sha": "d1d3691433a7a14fc25cd140ef5678aff4c03040",
           "lastSyncedAt": "2026-08-16T06:53:33.561Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1936",
+      "title": "Add Minimum Number of Rungs",
+      "slug": "add-minimum-number-of-rungs",
+      "problemName": "1936-add-minimum-number-of-rungs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-minimum-number-of-rungs/",
+      "folderPath": "Sync folder inside repository: LeetCode/1936-add-minimum-number-of-rungs/",
+      "readmePath": "Sync folder inside repository: LeetCode/1936-add-minimum-number-of-rungs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1936-add-minimum-number-of-rungs.java",
+          "path": "Sync folder inside repository: LeetCode/1936-add-minimum-number-of-rungs/1936-add-minimum-number-of-rungs.java",
+          "sha": "2cab15db943a87be6c860f6d953e3b30138139ba",
+          "lastSyncedAt": "2026-11-24T10:28:28.216Z"
         }
       ]
     },
