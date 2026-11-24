@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 39 |
+| [Array](Topics/array/) | 40 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 8 |
@@ -70,7 +70,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Graph Theory](Topics/graph/) | 7 |
-| [Greedy](Topics/greedy/) | 1 |
+| [Greedy](Topics/greedy/) | 2 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
